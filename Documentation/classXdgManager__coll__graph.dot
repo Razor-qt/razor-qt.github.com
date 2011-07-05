@@ -1,0 +1,12 @@
+digraph G
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="XdgManager",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="xdgiconthememanager",fontname="Helvetica"];
+  Node2 [label="XdgIconThemeManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXdgIconThemeManager.html",tooltip="shall manage the icon-themes and select the active one"];
+  Node3 -> Node2 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="fallbackTheme\nactiveTheme",fontname="Helvetica"];
+  Node3 [label="XdgIconThemeFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXdgIconThemeFile.html",tooltip="handles a single iconthemefile"];
+  Node4 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="xdgautostart",fontname="Helvetica"];
+  Node4 [label="XdgAutoStart",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXdgAutoStart.html",tooltip="manages the xdg-correct autostart stuff"];
+}

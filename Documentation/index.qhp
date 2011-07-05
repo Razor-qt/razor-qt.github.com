@@ -1,0 +1,992 @@
+<QtHelpProject version="1.0">
+  <namespace>org.razor-qt.librazorqt</namespace>
+  <virtualFolder>doc</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="librazorqt 0.3.0" ref="index.html">
+        <section title="A minimal shared library for Razor-qt DE." ref="index.html" />
+        <section title="Related Pages" ref="pages.html">
+          <section title="Todo List" ref="todo.html" />
+        </section>
+        <section title="Class List" ref="annotated.html">
+          <section title="AddPluginDialog" ref="classAddPluginDialog.html" />
+          <section title="Battery" ref="classBattery.html" />
+          <section title="DomElementIterator" ref="classDomElementIterator.html" />
+          <section title="HtmlDelegate" ref="classHtmlDelegate.html" />
+          <section title="LayoutItem" ref="structLayoutItem.html" />
+          <section title="LayoutParams" ref="structLayoutParams.html" />
+          <section title="MessageBox" ref="classMessageBox.html" />
+          <section title="MutableDomElementIterator" ref="classMutableDomElementIterator.html" />
+          <section title="PowerManager" ref="classPowerManager.html" />
+          <section title="RazorAboutDLG" ref="classRazorAboutDLG.html" />
+          <section title="RazorAboutDLGPrivate" ref="classRazorAboutDLGPrivate.html" />
+          <section title="RazorDev" ref="classRazorDev.html" />
+          <section title="RazorDevMan" ref="classRazorDevMan.html" />
+          <section title="RazorHal" ref="classRazorHal.html" />
+          <section title="RazorHalDev" ref="classRazorHalDev.html" />
+          <section title="RazorMimeInfo" ref="classRazorMimeInfo.html" />
+          <section title="RazorPluginInfo" ref="classRazorPluginInfo.html" />
+          <section title="RazorPluginInfoList" ref="classRazorPluginInfoList.html" />
+          <section title="RazorSettings" ref="classRazorSettings.html" />
+          <section title="RazorSettingsCache" ref="classRazorSettingsCache.html" />
+          <section title="RazorSettingsPrivate" ref="classRazorSettingsPrivate.html" />
+          <section title="RazorTheme" ref="classRazorTheme.html" />
+          <section title="RazorThemePrivate" ref="classRazorThemePrivate.html" />
+          <section title="ScreenSaver" ref="classScreenSaver.html" />
+          <section title="UCpufreq" ref="classUCpufreq.html" />
+          <section title="UPower" ref="classUPower.html" />
+          <section title="WindowAllowedActions" ref="structWindowAllowedActions.html" />
+          <section title="WindowState" ref="structWindowState.html" />
+          <section title="XdgAction" ref="classXdgAction.html" />
+          <section title="XdgAutoStart" ref="classXdgAutoStart.html" />
+          <section title="XdgDesktopFile" ref="classXdgDesktopFile.html" />
+          <section title="XdgDesktopFileCache" ref="classXdgDesktopFileCache.html" />
+          <section title="XdgDesktopFilePrivate" ref="classXdgDesktopFilePrivate.html" />
+          <section title="XdgEnv" ref="classXdgEnv.html" />
+          <section title="XdgIcon" ref="classXdgIcon.html" />
+          <section title="XdgIconCache" ref="classXdgIconCache.html" />
+          <section title="XdgIconThemeFile" ref="classXdgIconThemeFile.html" />
+          <section title="XdgIconThemeManager" ref="classXdgIconThemeManager.html" />
+          <section title="XdgManager" ref="classXdgManager.html" />
+          <section title="XdgMenu" ref="classXdgMenu.html" />
+          <section title="XdgMenuAppFileInfo" ref="classXdgMenuAppFileInfo.html" />
+          <section title="XdgMenuApplinkProcessor" ref="classXdgMenuApplinkProcessor.html" />
+          <section title="XdgMenuLayoutProcessor" ref="classXdgMenuLayoutProcessor.html" />
+          <section title="XdgMenuPrivate" ref="classXdgMenuPrivate.html" />
+          <section title="XdgMenuReader" ref="classXdgMenuReader.html" />
+          <section title="XdgMenuRule" ref="classXdgMenuRule.html" />
+          <section title="XdgMenuRuleAll" ref="classXdgMenuRuleAll.html" />
+          <section title="XdgMenuRuleAnd" ref="classXdgMenuRuleAnd.html" />
+          <section title="XdgMenuRuleCategory" ref="classXdgMenuRuleCategory.html" />
+          <section title="XdgMenuRuleFileName" ref="classXdgMenuRuleFileName.html" />
+          <section title="XdgMenuRuleNot" ref="classXdgMenuRuleNot.html" />
+          <section title="XdgMenuRuleOr" ref="classXdgMenuRuleOr.html" />
+          <section title="XdgMenuRules" ref="classXdgMenuRules.html" />
+          <section title="XdgMenuWidget" ref="classXdgMenuWidget.html" />
+          <section title="XdgMenuWidgetPrivate" ref="classXdgMenuWidgetPrivate.html" />
+          <section title="XfitMan" ref="classXfitMan.html" />
+        </section>
+        <section title="Class Index" ref="classes.html" />
+        <section title="Class Hierarchy" ref="hierarchy.html">
+          <section title="AddPluginDialog" ref="classAddPluginDialog.html" />
+          <section title="Battery" ref="classBattery.html" />
+          <section title="DomElementIterator" ref="classDomElementIterator.html" />
+          <section title="HtmlDelegate" ref="classHtmlDelegate.html" />
+          <section title="LayoutItem" ref="structLayoutItem.html" />
+          <section title="LayoutParams" ref="structLayoutParams.html" />
+          <section title="MessageBox" ref="classMessageBox.html" />
+          <section title="MutableDomElementIterator" ref="classMutableDomElementIterator.html" />
+          <section title="PowerManager" ref="classPowerManager.html" />
+          <section title="RazorAboutDLG" ref="classRazorAboutDLG.html" />
+          <section title="RazorAboutDLGPrivate" ref="classRazorAboutDLGPrivate.html" />
+          <section title="RazorDev" ref="classRazorDev.html">
+            <section title="RazorHalDev" ref="classRazorHalDev.html" />
+          </section>
+          <section title="RazorDevMan" ref="classRazorDevMan.html">
+            <section title="RazorHal" ref="classRazorHal.html" />
+          </section>
+          <section title="RazorMimeInfo" ref="classRazorMimeInfo.html" />
+          <section title="RazorPluginInfoList" ref="classRazorPluginInfoList.html" />
+          <section title="RazorSettings" ref="classRazorSettings.html" />
+          <section title="RazorSettingsCache" ref="classRazorSettingsCache.html" />
+          <section title="RazorSettingsPrivate" ref="classRazorSettingsPrivate.html" />
+          <section title="RazorTheme" ref="classRazorTheme.html" />
+          <section title="RazorThemePrivate" ref="classRazorThemePrivate.html" />
+          <section title="ScreenSaver" ref="classScreenSaver.html" />
+          <section title="UCpufreq" ref="classUCpufreq.html" />
+          <section title="UPower" ref="classUPower.html" />
+          <section title="WindowAllowedActions" ref="structWindowAllowedActions.html" />
+          <section title="WindowState" ref="structWindowState.html" />
+          <section title="XdgAction" ref="classXdgAction.html" />
+          <section title="XdgAutoStart" ref="classXdgAutoStart.html" />
+          <section title="XdgDesktopFile" ref="classXdgDesktopFile.html">
+            <section title="RazorPluginInfo" ref="classRazorPluginInfo.html" />
+          </section>
+          <section title="XdgDesktopFileCache" ref="classXdgDesktopFileCache.html" />
+          <section title="XdgDesktopFilePrivate" ref="classXdgDesktopFilePrivate.html" />
+          <section title="XdgEnv" ref="classXdgEnv.html" />
+          <section title="XdgIcon" ref="classXdgIcon.html" />
+          <section title="XdgIconCache" ref="classXdgIconCache.html" />
+          <section title="XdgIconThemeFile" ref="classXdgIconThemeFile.html" />
+          <section title="XdgIconThemeManager" ref="classXdgIconThemeManager.html" />
+          <section title="XdgManager" ref="classXdgManager.html" />
+          <section title="XdgMenu" ref="classXdgMenu.html" />
+          <section title="XdgMenuAppFileInfo" ref="classXdgMenuAppFileInfo.html" />
+          <section title="XdgMenuApplinkProcessor" ref="classXdgMenuApplinkProcessor.html" />
+          <section title="XdgMenuLayoutProcessor" ref="classXdgMenuLayoutProcessor.html" />
+          <section title="XdgMenuPrivate" ref="classXdgMenuPrivate.html" />
+          <section title="XdgMenuReader" ref="classXdgMenuReader.html" />
+          <section title="XdgMenuRule" ref="classXdgMenuRule.html">
+            <section title="XdgMenuRuleAll" ref="classXdgMenuRuleAll.html" />
+            <section title="XdgMenuRuleCategory" ref="classXdgMenuRuleCategory.html" />
+            <section title="XdgMenuRuleFileName" ref="classXdgMenuRuleFileName.html" />
+            <section title="XdgMenuRuleOr" ref="classXdgMenuRuleOr.html">
+              <section title="XdgMenuRuleAnd" ref="classXdgMenuRuleAnd.html" />
+              <section title="XdgMenuRuleNot" ref="classXdgMenuRuleNot.html" />
+            </section>
+          </section>
+          <section title="XdgMenuRules" ref="classXdgMenuRules.html" />
+          <section title="XdgMenuWidget" ref="classXdgMenuWidget.html" />
+          <section title="XdgMenuWidgetPrivate" ref="classXdgMenuWidgetPrivate.html" />
+          <section title="XfitMan" ref="classXfitMan.html" />
+        </section>
+        <section title="Class Members" ref="functions.html" />
+        <section title="File List" ref="files.html">
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/librazor-upower/battery.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/librazor-upower/ucpufreq.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/librazor-upower/upower.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/domhelper.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/powermanager.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razoraboutdlg.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razordevman.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razorhal.h" ref="razorhal_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razormime.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razorplugininfo.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/razorsettings.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/screensaver.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgaction.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgautostart.h" ref="xdgautostart_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgdesktopfile.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgenv.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgicon.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgiconthemefile.cpp" ref="xdgiconthemefile_8cpp.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgiconthemefile.h" ref="xdgiconthemefile_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgiconthememanager.cpp" ref="xdgiconthememanager_8cpp.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgiconthememanager.h" ref="xdgiconthememanager_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmanager.cpp" ref="xdgmanager_8cpp.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmanager.h" ref="xdgmanager_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xfitman.cpp" ref="xfitman_8cpp.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xfitman.h" ref="xfitman_8h.html" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/addplugindialog/addplugindialog.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenu.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenu_p.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenuapplinkprocessor.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenulayoutprocessor.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenureader.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenurules.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqt/xdgmenu/xdgmenuwidget.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqxt/qxtglobal.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqxt/qxtglobalshortcut.h" />
+          <section title="/home/kermit/Projekty/razor-qt/razor-qt/librazorqt/razorqxt/qxtglobalshortcut_p.h" />
+        </section>
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="SOURCE_NORMAL" id="xfitman.cpp::SOURCE_NORMAL" ref="xfitman_8cpp.html#af74cafad9c161cc49b1b396b1922039a" />
+      <keyword name="SOURCE_PAGER" id="xfitman.cpp::SOURCE_PAGER" ref="xfitman_8cpp.html#afb6a5154cd79807c0fa15480efa00451" />
+      <keyword name="_NET_WM_STATE_REMOVE" id="xfitman.cpp::_NET_WM_STATE_REMOVE" ref="xfitman_8cpp.html#a50026537f9f2afdb4a6a4f3bc5dad6d3" />
+      <keyword name="_NET_WM_STATE_ADD" id="xfitman.cpp::_NET_WM_STATE_ADD" ref="xfitman_8cpp.html#af01584d4487719bb38125d1c5176a823" />
+      <keyword name="_NET_WM_STATE_TOGGLE" id="xfitman.cpp::_NET_WM_STATE_TOGGLE" ref="xfitman_8cpp.html#a3e923d9844fde85f4a21c204f1f8dbd2" />
+      <keyword name="xfitMan" id="xfitman.cpp::xfitMan" ref="xfitman_8cpp.html#a06d485552efcebb36bdd0cff8286e95d" />
+      <keyword name="_NET_WM_STATE_TOGGLE" id="xfitman.h::_NET_WM_STATE_TOGGLE" ref="xfitman_8h.html#a3e923d9844fde85f4a21c204f1f8dbd2" />
+      <keyword name="_NET_WM_STATE_ADD" id="xfitman.h::_NET_WM_STATE_ADD" ref="xfitman_8h.html#af01584d4487719bb38125d1c5176a823" />
+      <keyword name="_NET_WM_STATE_REMOVE" id="xfitman.h::_NET_WM_STATE_REMOVE" ref="xfitman_8h.html#a50026537f9f2afdb4a6a4f3bc5dad6d3" />
+      <keyword name="AtomList" id="xfitman.h::AtomList" ref="xfitman_8h.html#ab7514197d8d1493a035b9f304a9daca5" />
+      <keyword name="WindowList" id="xfitman.h::WindowList" ref="xfitman_8h.html#a0be065b9e14e328d67328fcc3a85bc79" />
+      <keyword name="xfitMan" id="xfitman.h::xfitMan" ref="xfitman_8h.html#a06d485552efcebb36bdd0cff8286e95d" />
+      <keyword name="Todo List" id="Todo List" ref="todo.html" />
+      <keyword name="AddPluginDialog" id="AddPluginDialog" ref="classAddPluginDialog.html" />
+      <keyword name="pluginSelected" id="AddPluginDialog::pluginSelected" ref="classAddPluginDialog.html#a0d87171c776e86fa756200677fa97f1c" />
+      <keyword name="AddPluginDialog" id="AddPluginDialog::AddPluginDialog" ref="classAddPluginDialog.html#a5db9f247a9a8a8b181ff7e1475aada29" />
+      <keyword name="timerEvent" id="AddPluginDialog::timerEvent" ref="classAddPluginDialog.html#a38e48278a3b792d0197dcd58b10a1656" />
+      <keyword name="Battery" id="Battery" ref="classBattery.html" />
+      <keyword name="refresh" id="Battery::refresh" ref="classBattery.html#a7289442b8119494f06080d843c261c74" />
+      <keyword name="changed" id="Battery::changed" ref="classBattery.html#a3f9b5fce4e2a1bec06d79251d5132a8a" />
+      <keyword name="lowBattery" id="Battery::lowBattery" ref="classBattery.html#a97d327cf6428675edaab9f91359377e1" />
+      <keyword name="full" id="Battery::full" ref="classBattery.html#a70a113ba401eee2c28f5d2efde9919cf" />
+      <keyword name="monitoring" id="Battery::monitoring" ref="classBattery.html#ac36abcbe6c7259e37bce1c6032577f88" />
+      <keyword name="Battery" id="Battery::Battery" ref="classBattery.html#a5203359d18f924a6f348b63f35db191a" />
+      <keyword name="operator==" id="Battery::operator==" ref="classBattery.html#a2ba72dbe55e186f5dbc274748df02b63" />
+      <keyword name="sysfsPath" id="Battery::sysfsPath" ref="classBattery.html#a95786f371e22e00115cee9ad17282c70" />
+      <keyword name="model" id="Battery::model" ref="classBattery.html#aa1e130c55b55ffcb6b779e98ebbc3b91" />
+      <keyword name="vendor" id="Battery::vendor" ref="classBattery.html#a930d1c24f58462de5bd91ab8656c9a85" />
+      <keyword name="technology" id="Battery::technology" ref="classBattery.html#a58cd7f48a02b1696bbf4f10edd39ec10" />
+      <keyword name="path" id="Battery::path" ref="classBattery.html#a620cb452e9ee7512a5346b6a616092ee" />
+      <keyword name="powerSupply" id="Battery::powerSupply" ref="classBattery.html#adb38b6df57d934a79982c77c7d6670e6" />
+      <keyword name="hasHistory" id="Battery::hasHistory" ref="classBattery.html#a1dc11329e427f21d4db0f043d10b31bf" />
+      <keyword name="hasStatistics" id="Battery::hasStatistics" ref="classBattery.html#a8005d9a5fa4a6a5ba60e01413540f093" />
+      <keyword name="isPresent" id="Battery::isPresent" ref="classBattery.html#a956069a7c2969cb05e155038e0ebe3b0" />
+      <keyword name="isRechargeable" id="Battery::isRechargeable" ref="classBattery.html#aa9cc2f1222f99b95b046535fb46ebadd" />
+      <keyword name="isValid" id="Battery::isValid" ref="classBattery.html#a2da57a02bb60a1e0b4338d1779fc2197" />
+      <keyword name="energy" id="Battery::energy" ref="classBattery.html#afa6124bc881b51312082460ff5125a84" />
+      <keyword name="energyEmpty" id="Battery::energyEmpty" ref="classBattery.html#a15dd9ac2ef903fa2b2166efd7ba89768" />
+      <keyword name="energyFull" id="Battery::energyFull" ref="classBattery.html#a18cc051a7eaee7ac16e337e5e3607617" />
+      <keyword name="energyFullDesign" id="Battery::energyFullDesign" ref="classBattery.html#ac783684ee023a52506ccc65bd4be79fe" />
+      <keyword name="energyRate" id="Battery::energyRate" ref="classBattery.html#aacb2cd20f6418c958b23ddeafafcdf8d" />
+      <keyword name="voltage" id="Battery::voltage" ref="classBattery.html#a95b13e8bf96cfdf866448f24d015ba58" />
+      <keyword name="percentage" id="Battery::percentage" ref="classBattery.html#aef7222ac3badc984fe10b6d306c4f614" />
+      <keyword name="capacity" id="Battery::capacity" ref="classBattery.html#ad64ab5d92db41fec603c013f2366d6fa" />
+      <keyword name="toFull" id="Battery::toFull" ref="classBattery.html#a503a5f91a1543d0cc0a9f0d21ce42f65" />
+      <keyword name="toEmpty" id="Battery::toEmpty" ref="classBattery.html#acea0a0029ffd391763cb4de71d6b9bf4" />
+      <keyword name="lowLevel" id="Battery::lowLevel" ref="classBattery.html#a1b6dcd646685806c5173f362694cc7a3" />
+      <keyword name="setLowLevel" id="Battery::setLowLevel" ref="classBattery.html#accbe800b3b67513cf9a22d0860a688ff" />
+      <keyword name="state" id="Battery::state" ref="classBattery.html#a1ac0968b584fc5e2ff4b9a0eda16f4d0" />
+      <keyword name="sysfsPath" id="Battery::sysfsPath" ref="classBattery.html#a5b1e5df293c91a4c28f4772fb17bc054" />
+      <keyword name="model" id="Battery::model" ref="classBattery.html#acf0fad63626f3198791cd28d4f881714" />
+      <keyword name="vendor" id="Battery::vendor" ref="classBattery.html#ac585f4d8903234aef33dc08d9a9dbe44" />
+      <keyword name="technology" id="Battery::technology" ref="classBattery.html#aadceb42d6ccfa449b33da37be478fe80" />
+      <keyword name="path" id="Battery::path" ref="classBattery.html#aa7139e470b0aef03d70593515909e9f0" />
+      <keyword name="powerSupply" id="Battery::powerSupply" ref="classBattery.html#a78889ee9f587cf6ff260a4044a3ad2e2" />
+      <keyword name="hasHistory" id="Battery::hasHistory" ref="classBattery.html#aaff2c62ec8bcc1deed217b582348ab3d" />
+      <keyword name="hasStatistics" id="Battery::hasStatistics" ref="classBattery.html#ad7952d0cca233bf2c5adee4baac1b086" />
+      <keyword name="isPresent" id="Battery::isPresent" ref="classBattery.html#aff61b64382987da4d9e37f299d0c5048" />
+      <keyword name="isRechargeable" id="Battery::isRechargeable" ref="classBattery.html#ad21455c6186765e5c8f938d38c180739" />
+      <keyword name="energy" id="Battery::energy" ref="classBattery.html#af6709365241282906ed15c69a21b64d1" />
+      <keyword name="energyEmpty" id="Battery::energyEmpty" ref="classBattery.html#a93b2ebdb1740860dee87e6423b92b794" />
+      <keyword name="energyFull" id="Battery::energyFull" ref="classBattery.html#aa5d9928463fef8f7da06f636886a68cc" />
+      <keyword name="energyFullDesign" id="Battery::energyFullDesign" ref="classBattery.html#acc55a0524c82c6dddd760240f5ef23cf" />
+      <keyword name="energyRate" id="Battery::energyRate" ref="classBattery.html#a88777031fc15a21cdd849bd1ce893138" />
+      <keyword name="voltage" id="Battery::voltage" ref="classBattery.html#a5484f98ddca2b1846c4a5eed032e83f0" />
+      <keyword name="percentage" id="Battery::percentage" ref="classBattery.html#aea3e1442f7270ced91a144aca325bcc1" />
+      <keyword name="capacity" id="Battery::capacity" ref="classBattery.html#a5cf87a60a1df80477b8ea909a242009e" />
+      <keyword name="state" id="Battery::state" ref="classBattery.html#a19578774217830f22d7fada1ee98d7cb" />
+      <keyword name="lowLevel" id="Battery::lowLevel" ref="classBattery.html#ae03dac4dfab12e85f5dea469982aca54" />
+      <keyword name="toFull" id="Battery::toFull" ref="classBattery.html#a6684ee1e5b50568641e13cac9c610204" />
+      <keyword name="toEmpty" id="Battery::toEmpty" ref="classBattery.html#aff8b40dbdf08b2928f510315bbc96c8b" />
+      <keyword name="DomElementIterator" id="DomElementIterator" ref="classDomElementIterator.html" />
+      <keyword name="DomElementIterator" id="DomElementIterator::DomElementIterator" ref="classDomElementIterator.html#a8ef0748f8bc2f142a7c88a004938c3d5" />
+      <keyword name="toFront" id="DomElementIterator::toFront" ref="classDomElementIterator.html#a8f8e75e99270168229fa1dfe671015b2" />
+      <keyword name="hasNext" id="DomElementIterator::hasNext" ref="classDomElementIterator.html#ad20d3da280982e39e26c47a8d20f5739" />
+      <keyword name="next" id="DomElementIterator::next" ref="classDomElementIterator.html#aad91d47db3e33e56bf65d0bafba9a687" />
+      <keyword name="toBack" id="DomElementIterator::toBack" ref="classDomElementIterator.html#a15b560379f9fcb6d59ed50c9f13753b3" />
+      <keyword name="hasPrevious" id="DomElementIterator::hasPrevious" ref="classDomElementIterator.html#a7d52dc05e4528c706f88c222afe2e560" />
+      <keyword name="previous" id="DomElementIterator::previous" ref="classDomElementIterator.html#a16dbcd5f29b04f59dffec106f7624da9" />
+      <keyword name="current" id="DomElementIterator::current" ref="classDomElementIterator.html#aff268db5ca9fa5fe1c91b7009272fcf1" />
+      <keyword name="HtmlDelegate" id="HtmlDelegate" ref="classHtmlDelegate.html" />
+      <keyword name="HtmlDelegate" id="HtmlDelegate::HtmlDelegate" ref="classHtmlDelegate.html#aa52a47ddb8799a3ace86135d1cc15d36" />
+      <keyword name="paint" id="HtmlDelegate::paint" ref="classHtmlDelegate.html#a86583e3ec979e3054d3f170da87e3f36" />
+      <keyword name="sizeHint" id="HtmlDelegate::sizeHint" ref="classHtmlDelegate.html#a756adeaa462a0a130a8385ad3a85c069" />
+      <keyword name="LayoutItem" id="LayoutItem" ref="structLayoutItem.html" />
+      <keyword name="type" id="LayoutItem::type" ref="structLayoutItem.html#a7ca2277f35bf239f201982122e6f2346" />
+      <keyword name="showEmpty" id="LayoutItem::showEmpty" ref="structLayoutItem.html#a354e6c2fdd24f2efcc281213a9895852" />
+      <keyword name="isInline" id="LayoutItem::isInline" ref="structLayoutItem.html#afa5c9db7a193d7c2add3852a06abb388" />
+      <keyword name="inlineLimit" id="LayoutItem::inlineLimit" ref="structLayoutItem.html#ad170d71ad61a5d1d642998618b6d6532" />
+      <keyword name="inlineHeader" id="LayoutItem::inlineHeader" ref="structLayoutItem.html#a41176f149bde1cd5490941d154ab2940" />
+      <keyword name="inlineAlias" id="LayoutItem::inlineAlias" ref="structLayoutItem.html#ab188dd9d4243328f1c55effbbe559bf1" />
+      <keyword name="fileId" id="LayoutItem::fileId" ref="structLayoutItem.html#afe83b2ac92116c4016be1d63d5aa7516" />
+      <keyword name="LayoutParams" id="LayoutParams" ref="structLayoutParams.html" />
+      <keyword name="mShowEmpty" id="LayoutParams::mShowEmpty" ref="structLayoutParams.html#a8471508079a27e9ffaf5479c1cb14aec" />
+      <keyword name="mInline" id="LayoutParams::mInline" ref="structLayoutParams.html#a28dbbeca207290b4e10d15944f76d473" />
+      <keyword name="mInlineLimit" id="LayoutParams::mInlineLimit" ref="structLayoutParams.html#ad928bfadf66580cf9d93136e82179f33" />
+      <keyword name="mInlineHeader" id="LayoutParams::mInlineHeader" ref="structLayoutParams.html#ab9e684522cdf94fe8202464399cc46a5" />
+      <keyword name="mInlineAlias" id="LayoutParams::mInlineAlias" ref="structLayoutParams.html#a1465780b058047d0ba86037d6645634b" />
+      <keyword name="MessageBox" id="MessageBox" ref="classMessageBox.html" />
+      <keyword name="MessageBox" id="MessageBox::MessageBox" ref="classMessageBox.html#a990d6667ca2831882090602c93169b0d" />
+      <keyword name="question" id="MessageBox::question" ref="classMessageBox.html#a10a863100fdbdfc51c4075656e3bd401" />
+      <keyword name="resizeEvent" id="MessageBox::resizeEvent" ref="classMessageBox.html#a9c5f71492612cfc015bf4b2ac4ebd55e" />
+      <keyword name="MutableDomElementIterator" id="MutableDomElementIterator" ref="classMutableDomElementIterator.html" />
+      <keyword name="MutableDomElementIterator" id="MutableDomElementIterator::MutableDomElementIterator" ref="classMutableDomElementIterator.html#a7e8c7e975b1b11e623a0e675dfce34b5" />
+      <keyword name="toFront" id="MutableDomElementIterator::toFront" ref="classMutableDomElementIterator.html#a2aed450107fa1a4b4f2a5416981f711a" />
+      <keyword name="hasNext" id="MutableDomElementIterator::hasNext" ref="classMutableDomElementIterator.html#a07109a4e58083524bf08081ec41dcb20" />
+      <keyword name="next" id="MutableDomElementIterator::next" ref="classMutableDomElementIterator.html#ae5e0eb833cb29a954a44e8a806090c20" />
+      <keyword name="toBack" id="MutableDomElementIterator::toBack" ref="classMutableDomElementIterator.html#a01cbd0476698da4eb75ae5196922aef6" />
+      <keyword name="hasPrevious" id="MutableDomElementIterator::hasPrevious" ref="classMutableDomElementIterator.html#ad7f0303f23d3f2e81392ada37c3f88d6" />
+      <keyword name="previous" id="MutableDomElementIterator::previous" ref="classMutableDomElementIterator.html#aad86afee763a5c3f4bff7355f12cce42" />
+      <keyword name="current" id="MutableDomElementIterator::current" ref="classMutableDomElementIterator.html#ac72807018826ed7697406d42f19d99f9" />
+      <keyword name="PowerManager" id="PowerManager" ref="classPowerManager.html" />
+      <keyword name="suspend" id="PowerManager::suspend" ref="classPowerManager.html#ac6df777894b654f566e06f7cc47bf385" />
+      <keyword name="hibernate" id="PowerManager::hibernate" ref="classPowerManager.html#a1fc9f33c94a053dd1f00881ddc956ec4" />
+      <keyword name="reboot" id="PowerManager::reboot" ref="classPowerManager.html#a9f1c13beec9f9647e7526d62fac731ec" />
+      <keyword name="halt" id="PowerManager::halt" ref="classPowerManager.html#a87212fa78459cf11e8a41525bdd26391" />
+      <keyword name="logout" id="PowerManager::logout" ref="classPowerManager.html#a2e8fe86d357aae15e7f4c19407365e3f" />
+      <keyword name="PowerManager" id="PowerManager::PowerManager" ref="classPowerManager.html#ab48a7b97d30a7617249e0a49cec166e1" />
+      <keyword name="availableActions" id="PowerManager::availableActions" ref="classPowerManager.html#ad0a71763958c4e9c3aa05bebbd5db195" />
+      <keyword name="parentWidget" id="PowerManager::parentWidget" ref="classPowerManager.html#a5464ec018fe20a256e5b365908b6a299" />
+      <keyword name="setParentWidget" id="PowerManager::setParentWidget" ref="classPowerManager.html#a26bfc85a392775260b825cfea92584b9" />
+      <keyword name="RazorAboutDLG" id="RazorAboutDLG" ref="classRazorAboutDLG.html" />
+      <keyword name="RazorAboutDLGPrivate" id="RazorAboutDLGPrivate" ref="classRazorAboutDLGPrivate.html" />
+      <keyword name="RazorDev" id="RazorDev" ref="classRazorDev.html" />
+      <keyword name="RazorDev" id="RazorDev::RazorDev" ref="classRazorDev.html#a032f5323c5f74768ca13f327625a6e38" />
+      <keyword name="mount" id="RazorDev::mount" ref="classRazorDev.html#ad3f0d7d9db092dd7f689c04b860a6739" />
+      <keyword name="umount" id="RazorDev::umount" ref="classRazorDev.html#ab48d867a028fad6a12632a8d791f80bb" />
+      <keyword name="getMounted" id="RazorDev::getMounted" ref="classRazorDev.html#a99ad9a04640dd49798ab3410e0de2b2f" />
+      <keyword name="getuuid" id="RazorDev::getuuid" ref="classRazorDev.html#a2f13be4746075d6a9dab1548347cdddc" />
+      <keyword name="getblockDev" id="RazorDev::getblockDev" ref="classRazorDev.html#aa4be897ae73ca7b72c8b5e457408c059" />
+      <keyword name="getvolume" id="RazorDev::getvolume" ref="classRazorDev.html#a65becc48322b74dfce1de88fa336de89" />
+      <keyword name="getdriveType" id="RazorDev::getdriveType" ref="classRazorDev.html#a109984b26ee3f1208ed70c3b4f957eea" />
+      <keyword name="getfsType" id="RazorDev::getfsType" ref="classRazorDev.html#acbb083c919900f9899831cd135c5e050" />
+      <keyword name="getMountPoint" id="RazorDev::getMountPoint" ref="classRazorDev.html#a1933e3e81fc13fd262747c192c3065bb" />
+      <keyword name="RazorDevMan" id="RazorDevMan" ref="classRazorDevMan.html" />
+      <keyword name="deviceAdded" id="RazorDevMan::deviceAdded" ref="classRazorDevMan.html#a7db7447b3381ed8e6ef1812a5396ef05" />
+      <keyword name="deviceRemoved" id="RazorDevMan::deviceRemoved" ref="classRazorDevMan.html#ae76fdd71e4765b56f6c287049c462980" />
+      <keyword name="RazorDevMan" id="RazorDevMan::RazorDevMan" ref="classRazorDevMan.html#a3a23e4870850f871e9302846b14da8ac" />
+      <keyword name="mount" id="RazorDevMan::mount" ref="classRazorDevMan.html#aef6d567df44a6717d7eea650a6ce7dea" />
+      <keyword name="umount" id="RazorDevMan::umount" ref="classRazorDevMan.html#a8064296de48ebadef8025e23f9d9233a" />
+      <keyword name="listDevices" id="RazorDevMan::listDevices" ref="classRazorDevMan.html#a1e3221c229eacfc55145af8186d8e22e" />
+      <keyword name="getDevice" id="RazorDevMan::getDevice" ref="classRazorDevMan.html#ada8872f2706eb8827190d3caac775199" />
+      <keyword name="RazorHal" id="RazorHal" ref="classRazorHal.html" />
+      <keyword name="RazorHal" id="RazorHal::RazorHal" ref="classRazorHal.html#ac62e4f6b2dfd0be01f81abae18bf78ac" />
+      <keyword name="~RazorHal" id="RazorHal::~RazorHal" ref="classRazorHal.html#a69b7dfefee728018ff79408e520a379d" />
+      <keyword name="mount" id="RazorHal::mount" ref="classRazorHal.html#ad2336298b16ddc46ebccfe7289d278e6" />
+      <keyword name="umount" id="RazorHal::umount" ref="classRazorHal.html#a45ec683c64aca672def2547734020b1a" />
+      <keyword name="listDevices" id="RazorHal::listDevices" ref="classRazorHal.html#a60daafc88f091e7feced8a6e1a550fe0" />
+      <keyword name="getDevice" id="RazorHal::getDevice" ref="classRazorHal.html#add5c418424fe2644d63370a855b12fc9" />
+      <keyword name="RazorHalDev" id="RazorHalDev" ref="classRazorHalDev.html" />
+      <keyword name="RazorHalDev" id="RazorHalDev::RazorHalDev" ref="classRazorHalDev.html#a30eae14c87fbaa8e37070d48e84ad4c6" />
+      <keyword name="RazorHalDev" id="RazorHalDev::RazorHalDev" ref="classRazorHalDev.html#a576887f9543b5d5c2c0121c65d409822" />
+      <keyword name="mount" id="RazorHalDev::mount" ref="classRazorHalDev.html#a7ae1b95aea5635d674365661a617a681" />
+      <keyword name="umount" id="RazorHalDev::umount" ref="classRazorHalDev.html#ae9167c23615639f1df6c5f55e2961f1a" />
+      <keyword name="getuuid" id="RazorHalDev::getuuid" ref="classRazorHalDev.html#aaaed14c69b426aa4b369d57b6ff780bd" />
+      <keyword name="getblockDev" id="RazorHalDev::getblockDev" ref="classRazorHalDev.html#afdfc5250ee30f280a8c79bf71311b39e" />
+      <keyword name="getvolume" id="RazorHalDev::getvolume" ref="classRazorHalDev.html#a245a7c1c37fca9dd7032b0f745f53f24" />
+      <keyword name="getdriveType" id="RazorHalDev::getdriveType" ref="classRazorHalDev.html#a2323ca5079523b5edcbac7083c61cc06" />
+      <keyword name="getfsType" id="RazorHalDev::getfsType" ref="classRazorHalDev.html#afb8d4422559d459279883307dffc70cc" />
+      <keyword name="getMounted" id="RazorHalDev::getMounted" ref="classRazorHalDev.html#a09ef57dd9faca615a854000ab349d664" />
+      <keyword name="isUseful" id="RazorHalDev::isUseful" ref="classRazorHalDev.html#ae3858e552c39928963495eef9a4efe83" />
+      <keyword name="getMountPoint" id="RazorHalDev::getMountPoint" ref="classRazorHalDev.html#af2e7d87c13e4360156f6e90a305d7bb6" />
+      <keyword name="RazorMimeInfo" id="RazorMimeInfo" ref="classRazorMimeInfo.html" />
+      <keyword name="RazorMimeInfo" id="RazorMimeInfo::RazorMimeInfo" ref="classRazorMimeInfo.html#a15c1b48fd36aa8cc8b8c788fc42d5ff0" />
+      <keyword name="RazorMimeInfo" id="RazorMimeInfo::RazorMimeInfo" ref="classRazorMimeInfo.html#ae5e00e206b51f020e0c1c27d80b1c218" />
+      <keyword name="mimeType" id="RazorMimeInfo::mimeType" ref="classRazorMimeInfo.html#ad615c4296ddf13c49d3dc4410e126f7b" />
+      <keyword name="icon" id="RazorMimeInfo::icon" ref="classRazorMimeInfo.html#aab22fd9a604f210a4293c7b704e3b9d3" />
+      <keyword name="RazorPluginInfo" id="RazorPluginInfo" ref="classRazorPluginInfo.html" />
+      <keyword name="RazorPluginInfo" id="RazorPluginInfo::RazorPluginInfo" ref="classRazorPluginInfo.html#aa9a97d76467004ff080257a5acd7105f" />
+      <keyword name="RazorPluginInfo" id="RazorPluginInfo::RazorPluginInfo" ref="classRazorPluginInfo.html#a4ab76f8c2ef7978316bca31972e2b4f9" />
+      <keyword name="operator=" id="RazorPluginInfo::operator=" ref="classRazorPluginInfo.html#afb05ebbcd50506333e77e1ece5f3d9de" />
+      <keyword name="id" id="RazorPluginInfo::id" ref="classRazorPluginInfo.html#a64097de41cd64cedfe648031e5adbe9d" />
+      <keyword name="serviceType" id="RazorPluginInfo::serviceType" ref="classRazorPluginInfo.html#ac616ee661c731a6481dd92a0fe242b7c" />
+      <keyword name="isValid" id="RazorPluginInfo::isValid" ref="classRazorPluginInfo.html#a8392e8bec8ed439065aa55bbf2f06698" />
+      <keyword name="loadLibrary" id="RazorPluginInfo::loadLibrary" ref="classRazorPluginInfo.html#a71ebc3d9ca5e9aaecec3d3f1e95d7f18" />
+      <keyword name="RazorPluginInfoList" id="RazorPluginInfoList" ref="classRazorPluginInfoList.html" />
+      <keyword name="RazorPluginInfoList" id="RazorPluginInfoList::RazorPluginInfoList" ref="classRazorPluginInfoList.html#a4fbed5720b999b7d52d12ce9473c5e99" />
+      <keyword name="~RazorPluginInfoList" id="RazorPluginInfoList::~RazorPluginInfoList" ref="classRazorPluginInfoList.html#aabcbe198ea4a33779f4343a4fc0a0b5d" />
+      <keyword name="load" id="RazorPluginInfoList::load" ref="classRazorPluginInfoList.html#af5f13ab85c29d4b8e6a6b8e88be944cd" />
+      <keyword name="find" id="RazorPluginInfoList::find" ref="classRazorPluginInfoList.html#aa3ad4cccb257dbbee0f2a262e7180034" />
+      <keyword name="RazorSettings" id="RazorSettings" ref="classRazorSettings.html" />
+      <keyword name="settigsChanged" id="RazorSettings::settigsChanged" ref="classRazorSettings.html#a5f8dcfcf017a455aa883a9b3a1a4cc88" />
+      <keyword name="RazorSettings" id="RazorSettings::RazorSettings" ref="classRazorSettings.html#a4e56d2fccf89cacbdfcf6dd31f5af28a" />
+      <keyword name="RazorSettings" id="RazorSettings::RazorSettings" ref="classRazorSettings.html#ad2adcc889086b2508b11c84bc1f97f8a" />
+      <keyword name="RazorSettings" id="RazorSettings::RazorSettings" ref="classRazorSettings.html#a3c1b679c8114e9e6458e747fcfb3aed5" />
+      <keyword name="event" id="RazorSettings::event" ref="classRazorSettings.html#aaf60797f06bfea1a9594a068f7ce0d42" />
+      <keyword name="RazorSettingsCache" id="RazorSettingsCache" ref="classRazorSettingsCache.html" />
+      <keyword name="RazorSettingsCache" id="RazorSettingsCache::RazorSettingsCache" ref="classRazorSettingsCache.html#ab578cffb68428e6329ca90ddbe9fe319" />
+      <keyword name="loadFromSettings" id="RazorSettingsCache::loadFromSettings" ref="classRazorSettingsCache.html#a100fe3869f6dc82f353b23d0fb4dbcc2" />
+      <keyword name="loadToSettings" id="RazorSettingsCache::loadToSettings" ref="classRazorSettingsCache.html#a817148982f5c5bc8270321e06bd0ff8c" />
+      <keyword name="RazorSettingsPrivate" id="RazorSettingsPrivate" ref="classRazorSettingsPrivate.html" />
+      <keyword name="RazorSettingsPrivate" id="RazorSettingsPrivate::RazorSettingsPrivate" ref="classRazorSettingsPrivate.html#a9572fd716af500a6e400efb849ee202b" />
+      <keyword name="RazorTheme" id="RazorTheme" ref="classRazorTheme.html" />
+      <keyword name="qss" id="RazorTheme::qss" ref="classRazorTheme.html#a9227afedc441b734ff189f524051d815" />
+      <keyword name="desktopBackground" id="RazorTheme::desktopBackground" ref="classRazorTheme.html#a9d58af89a42c82e229fe3355d6aa8263" />
+      <keyword name="instance" id="RazorTheme::instance" ref="classRazorTheme.html#af0760413d103e548edf6dddbdd180556" />
+      <keyword name="RazorThemePrivate" id="RazorThemePrivate" ref="classRazorThemePrivate.html" />
+      <keyword name="RazorThemePrivate" id="RazorThemePrivate::RazorThemePrivate" ref="classRazorThemePrivate.html#a7d3e3c5785213b5e54b9a5a5d5aefaa4" />
+      <keyword name="loadQss" id="RazorThemePrivate::loadQss" ref="classRazorThemePrivate.html#af682122bf4a2397d253d0a73f974f422" />
+      <keyword name="mThemeName" id="RazorThemePrivate::mThemeName" ref="classRazorThemePrivate.html#a53592a8cff94f28eed3f8ef4f5c95917" />
+      <keyword name="mParent" id="RazorThemePrivate::mParent" ref="classRazorThemePrivate.html#a9627333f7f6a3a84edfa9fd3392522b3" />
+      <keyword name="ScreenSaver" id="ScreenSaver" ref="classScreenSaver.html" />
+      <keyword name="lockScreen" id="ScreenSaver::lockScreen" ref="classScreenSaver.html#a5da50e484490b0a01f6abba97f97bed1" />
+      <keyword name="activated" id="ScreenSaver::activated" ref="classScreenSaver.html#ab6583c601f6ad91312916da48e8b4dcd" />
+      <keyword name="ScreenSaver" id="ScreenSaver::ScreenSaver" ref="classScreenSaver.html#a8ca717cad1f24e5a7ef030b0e7cf9369" />
+      <keyword name="availableActions" id="ScreenSaver::availableActions" ref="classScreenSaver.html#a36dad1129b66944e4e4a24d42e56a32d" />
+      <keyword name="UCpufreq" id="UCpufreq" ref="classUCpufreq.html" />
+      <keyword name="probeCpus" id="UCpufreq::probeCpus" ref="classUCpufreq.html#ae2ad16e0e4336551ffb9c36c54fcb764" />
+      <keyword name="createInterface" id="UCpufreq::createInterface" ref="classUCpufreq.html#a7e0371950d79a1031fbb1bca2425d4ad" />
+      <keyword name="setFrequency" id="UCpufreq::setFrequency" ref="classUCpufreq.html#afc1727829af450b7e53a90032882b60f" />
+      <keyword name="setGovernor" id="UCpufreq::setGovernor" ref="classUCpufreq.html#aed681b7a1a206e7912a49458eceb16d9" />
+      <keyword name="setMinFrequency" id="UCpufreq::setMinFrequency" ref="classUCpufreq.html#ab7c2c8ae4aa98b029b0b8b6c2fd0edc8" />
+      <keyword name="setMaxFrequency" id="UCpufreq::setMaxFrequency" ref="classUCpufreq.html#a391ac34b1e396a30ac671d3766941904" />
+      <keyword name="availableFrequency" id="UCpufreq::availableFrequency" ref="classUCpufreq.html#a916cfd042614f3add8581dab4a5f5df0" />
+      <keyword name="availableGovernors" id="UCpufreq::availableGovernors" ref="classUCpufreq.html#a1191a10f55b52837e2ab0f74beaa1fa4" />
+      <keyword name="relatedCpus" id="UCpufreq::relatedCpus" ref="classUCpufreq.html#aedc1b43bf9e6331ea26fb5756c05aecd" />
+      <keyword name="frequencyChange" id="UCpufreq::frequencyChange" ref="classUCpufreq.html#a71cfb28496e4f73361213e89f60ae151" />
+      <keyword name="maxFrequencyChange" id="UCpufreq::maxFrequencyChange" ref="classUCpufreq.html#ad3ea17fa5c5751a1bd57867179029f47" />
+      <keyword name="minFrequencyChange" id="UCpufreq::minFrequencyChange" ref="classUCpufreq.html#ad5f29cbfaccfd2ea44fee06bf3ebec92" />
+      <keyword name="governorChange" id="UCpufreq::governorChange" ref="classUCpufreq.html#a16df54e629acc88a405b50cd712fd14f" />
+      <keyword name="frequencyChange" id="UCpufreq::frequencyChange" ref="classUCpufreq.html#a910a2a23ce444280f2370df237d0ba60" />
+      <keyword name="maxFrequencyChange" id="UCpufreq::maxFrequencyChange" ref="classUCpufreq.html#a3accf33c1173ea0efe3f0f2851f24920" />
+      <keyword name="minFrequencyChange" id="UCpufreq::minFrequencyChange" ref="classUCpufreq.html#a2ba689a935cd154e5823b64f6b02a3bd" />
+      <keyword name="governorChange" id="UCpufreq::governorChange" ref="classUCpufreq.html#af071c9f05cb7e43bf8fbdb8323a5141b" />
+      <keyword name="ucpufreqAvailable" id="UCpufreq::ucpufreqAvailable" ref="classUCpufreq.html#a3367c3fad107acbd423acc6b10b6b4e1" />
+      <keyword name="ucpufreqUnavailable" id="UCpufreq::ucpufreqUnavailable" ref="classUCpufreq.html#a3ba0cb357a2af933537d0bb0ab7e3aa3" />
+      <keyword name="cpuAvailable" id="UCpufreq::cpuAvailable" ref="classUCpufreq.html#ad2903b848390d7251559ad38dfb75c40" />
+      <keyword name="monitoring" id="UCpufreq::monitoring" ref="classUCpufreq.html#a9dec0b5ded78469ef9bcf3c839cc41b2" />
+      <keyword name="isValid" id="UCpufreq::isValid" ref="classUCpufreq.html#a447ddaeb250c39e755b6123f35831768" />
+      <keyword name="nbCpus" id="UCpufreq::nbCpus" ref="classUCpufreq.html#ad82f506defea9b724727cd071bdaf303" />
+      <keyword name="governor" id="UCpufreq::governor" ref="classUCpufreq.html#a50f45f3fad87fd3f051d8e404e6e671d" />
+      <keyword name="frequency" id="UCpufreq::frequency" ref="classUCpufreq.html#ad3e6fe0340f27099854650994d4c0be0" />
+      <keyword name="UPower" id="UPower" ref="classUPower.html" />
+      <keyword name="probeDevices" id="UPower::probeDevices" ref="classUPower.html#a29be3388a1ecf71932c35a1fc2bae82f" />
+      <keyword name="connectInterfaces" id="UPower::connectInterfaces" ref="classUPower.html#a50e6d3484219a57a31f926765b39471e" />
+      <keyword name="upowerAvailable" id="UPower::upowerAvailable" ref="classUPower.html#a293bef604a30f504a938b221498ae287" />
+      <keyword name="upowerUnavailable" id="UPower::upowerUnavailable" ref="classUPower.html#a3b82f1fe15b9a1d9cc79a5791531b82b" />
+      <keyword name="batteryDetected" id="UPower::batteryDetected" ref="classUPower.html#a1bb8b92aa85625d115b98727c1e9b81e" />
+      <keyword name="batteryDisconnected" id="UPower::batteryDisconnected" ref="classUPower.html#acfadee6e76b831a8561a0c439a6ab8e8" />
+      <keyword name="onLowBattery" id="UPower::onLowBattery" ref="classUPower.html#af591b1530901488d5139a484d237d758" />
+      <keyword name="onBattery" id="UPower::onBattery" ref="classUPower.html#ac979a0ade997ad90f1b26e72979fea06" />
+      <keyword name="onPowerSupply" id="UPower::onPowerSupply" ref="classUPower.html#ab35ec025b538589060941aba70070532" />
+      <keyword name="suspendFail" id="UPower::suspendFail" ref="classUPower.html#a3f56ec7e6817cee058357d8e9e26f980" />
+      <keyword name="hibernateFail" id="UPower::hibernateFail" ref="classUPower.html#a94a8213f86c3458e56ac1fbd7d2f11c5" />
+      <keyword name="suspendSucceed" id="UPower::suspendSucceed" ref="classUPower.html#ae275e6ab8161775d34a7d85aea6b5e2d" />
+      <keyword name="hibernateSucceed" id="UPower::hibernateSucceed" ref="classUPower.html#aa22a473e48e765b793c2bae7901c91b6" />
+      <keyword name="suspend" id="UPower::suspend" ref="classUPower.html#ac4eabe2a2c6cd5016a2976ac20382a48" />
+      <keyword name="hibernate" id="UPower::hibernate" ref="classUPower.html#a5f20e7b353b4712e9630474d9f9fc2bf" />
+      <keyword name="reboot" id="UPower::reboot" ref="classUPower.html#a11fdd97ee5ba21d268f8ad22eed655d8" />
+      <keyword name="halt" id="UPower::halt" ref="classUPower.html#a0e94da7d011a5e380350e4aa16665c1a" />
+      <keyword name="version" id="UPower::version" ref="classUPower.html#abb596cc37f34e293e32c010f09492387" />
+      <keyword name="WindowAllowedActions" id="WindowAllowedActions" ref="structWindowAllowedActions.html" />
+      <keyword name="Move" id="WindowAllowedActions::Move" ref="structWindowAllowedActions.html#aaef78030d79664e8f83d2b2ff41422b9" />
+      <keyword name="Resize" id="WindowAllowedActions::Resize" ref="structWindowAllowedActions.html#ab3f7a6ac50b35831a29d44af5fc9406c" />
+      <keyword name="Minimize" id="WindowAllowedActions::Minimize" ref="structWindowAllowedActions.html#a310f43bab6cb5194e479255ef5677520" />
+      <keyword name="Shade" id="WindowAllowedActions::Shade" ref="structWindowAllowedActions.html#a692d3ac759a98b8eec0ae7cbc8ba42c8" />
+      <keyword name="Stick" id="WindowAllowedActions::Stick" ref="structWindowAllowedActions.html#a1018c0bed70b3d4f9e469632ac3af3e9" />
+      <keyword name="MaximizeHoriz" id="WindowAllowedActions::MaximizeHoriz" ref="structWindowAllowedActions.html#aff6713614034d265fdef3777b058df87" />
+      <keyword name="MaximizeVert" id="WindowAllowedActions::MaximizeVert" ref="structWindowAllowedActions.html#a6bc2a5dd13cd9b54619fc4f6a985e997" />
+      <keyword name="FullScreen" id="WindowAllowedActions::FullScreen" ref="structWindowAllowedActions.html#a7f2e731b14c1f2aad28610e6df951b06" />
+      <keyword name="ChangeDesktop" id="WindowAllowedActions::ChangeDesktop" ref="structWindowAllowedActions.html#ac8c335c222b17fbc4fcfd84b2f9444e4" />
+      <keyword name="Close" id="WindowAllowedActions::Close" ref="structWindowAllowedActions.html#a23ac269a87c8c85294dd9c764a99ef95" />
+      <keyword name="AboveLayer" id="WindowAllowedActions::AboveLayer" ref="structWindowAllowedActions.html#adc8ab68eede4e7775d617d11846621c3" />
+      <keyword name="BelowLayer" id="WindowAllowedActions::BelowLayer" ref="structWindowAllowedActions.html#ac5b858c716be3d0793913c74c5672d96" />
+      <keyword name="WindowState" id="WindowState" ref="structWindowState.html" />
+      <keyword name="Modal" id="WindowState::Modal" ref="structWindowState.html#a21c164189522fe880a4ba31f5d0db4e6" />
+      <keyword name="Sticky" id="WindowState::Sticky" ref="structWindowState.html#ad2cbc44f5d1a74a6bba111359dd58c4f" />
+      <keyword name="MaximizedVert" id="WindowState::MaximizedVert" ref="structWindowState.html#ad4fd327135be54d3df9a5e0f23263440" />
+      <keyword name="MaximizedHoriz" id="WindowState::MaximizedHoriz" ref="structWindowState.html#ab09f7009be37a0cec15cd644a1b6c0c3" />
+      <keyword name="Shaded" id="WindowState::Shaded" ref="structWindowState.html#af98a93e605cdb89e0a7c8df3028580a8" />
+      <keyword name="SkipTaskBar" id="WindowState::SkipTaskBar" ref="structWindowState.html#a532cffe5ad496d258ee7f29cace2b70d" />
+      <keyword name="SkipPager" id="WindowState::SkipPager" ref="structWindowState.html#a3565e1dc9b82afc0ddb76564c5691792" />
+      <keyword name="Hidden" id="WindowState::Hidden" ref="structWindowState.html#ad2a7fcb1e995ed9f949cebfdecede847" />
+      <keyword name="FullScreen" id="WindowState::FullScreen" ref="structWindowState.html#aac667face4a9802c3a3974d0c01f587f" />
+      <keyword name="AboveLayer" id="WindowState::AboveLayer" ref="structWindowState.html#a94476b2503cdaea2cfaf5f773e7bee5f" />
+      <keyword name="BelowLayer" id="WindowState::BelowLayer" ref="structWindowState.html#a018efc63b21e6147abe3db99ff87dc5c" />
+      <keyword name="Attention" id="WindowState::Attention" ref="structWindowState.html#a56df40485a586e2b20ca1b7af0f1bea2" />
+      <keyword name="XdgAction" id="XdgAction" ref="classXdgAction.html" />
+      <keyword name="XdgAction" id="XdgAction::XdgAction" ref="classXdgAction.html#a5e3f096741457ffed891442576d4d9bd" />
+      <keyword name="XdgAction" id="XdgAction::XdgAction" ref="classXdgAction.html#ab701725afde6a7d85f72a16fb4fb170b" />
+      <keyword name="XdgAction" id="XdgAction::XdgAction" ref="classXdgAction.html#a018e15c4158acdc911a0cd7a9358c7cd" />
+      <keyword name="XdgAction" id="XdgAction::XdgAction" ref="classXdgAction.html#a0a273740353bac8e78ee031e6bc51655" />
+      <keyword name="XdgAction" id="XdgAction::XdgAction" ref="classXdgAction.html#aaf516ecb777c7cd78b70c1c955550546" />
+      <keyword name="~XdgAction" id="XdgAction::~XdgAction" ref="classXdgAction.html#aba3ddb8f1f5b1695b306bd915aa5c176" />
+      <keyword name="operator=" id="XdgAction::operator=" ref="classXdgAction.html#a82b556a4b79e9b95c609ddf9bf87821a" />
+      <keyword name="isValid" id="XdgAction::isValid" ref="classXdgAction.html#a1d44651e420fdda4c89acd1bd44bd409" />
+      <keyword name="desktopFile" id="XdgAction::desktopFile" ref="classXdgAction.html#ac6158849f1a8bdedaab4190a015ed810" />
+      <keyword name="XdgAutoStart" id="XdgAutoStart" ref="classXdgAutoStart.html" />
+      <keyword name="XdgAutoStart" id="XdgAutoStart::XdgAutoStart" ref="classXdgAutoStart.html#a0ac9d9cd4a97752d7201a2284e52cacb" />
+      <keyword name="~XdgAutoStart" id="XdgAutoStart::~XdgAutoStart" ref="classXdgAutoStart.html#a5bdfa78da72fa8de36e98ddb835db6e1" />
+      <keyword name="list" id="XdgAutoStart::list" ref="classXdgAutoStart.html#a84eae01f12da57125e8e1bd320a7b0d7" />
+      <keyword name="XdgDesktopFile" id="XdgDesktopFile" ref="classXdgDesktopFile.html" />
+      <keyword name="XdgDesktopFile" id="XdgDesktopFile::XdgDesktopFile" ref="classXdgDesktopFile.html#a6fd7d6ae77dd9c665a37291845b1408e" />
+      <keyword name="XdgDesktopFile" id="XdgDesktopFile::XdgDesktopFile" ref="classXdgDesktopFile.html#a343bedfc6e5a85cb2295308d3c7dd1d3" />
+      <keyword name="XdgDesktopFile" id="XdgDesktopFile::XdgDesktopFile" ref="classXdgDesktopFile.html#a5babcc5e0a8b0e0311c53f0a6e1026f8" />
+      <keyword name="operator=" id="XdgDesktopFile::operator=" ref="classXdgDesktopFile.html#a3ebd91fdebed496bdedba6d47d70db18" />
+      <keyword name="value" id="XdgDesktopFile::value" ref="classXdgDesktopFile.html#a1066d9d43d20ebadac9f05850596dac3" />
+      <keyword name="localizedValue" id="XdgDesktopFile::localizedValue" ref="classXdgDesktopFile.html#a0f936916a68b54fa574abe4118bd95a1" />
+      <keyword name="contains" id="XdgDesktopFile::contains" ref="classXdgDesktopFile.html#a0408fa53f6430e09cdc34936dfebb878" />
+      <keyword name="isValid" id="XdgDesktopFile::isValid" ref="classXdgDesktopFile.html#a4ab07ef555447fc0cab8e537172c3c7f" />
+      <keyword name="fileName" id="XdgDesktopFile::fileName" ref="classXdgDesktopFile.html#ab9616eef42f566928897ef69092df3a3" />
+      <keyword name="isShow" id="XdgDesktopFile::isShow" ref="classXdgDesktopFile.html#abe3f0e99b309d4071b8d9001d958e745" />
+      <keyword name="type" id="XdgDesktopFile::type" ref="classXdgDesktopFile.html#abc497bce353cd13b857ef7a5ba080097" />
+      <keyword name="expandExecString" id="XdgDesktopFile::expandExecString" ref="classXdgDesktopFile.html#a4de028e13574f8240d10b57472edc734" />
+      <keyword name="url" id="XdgDesktopFile::url" ref="classXdgDesktopFile.html#a1428a91bc2e125d70e28ff4d386e01e3" />
+      <keyword name="startDetached" id="XdgDesktopFile::startDetached" ref="classXdgDesktopFile.html#ab5fc5cc8538d65e9e95c8436bd13327b" />
+      <keyword name="startDetached" id="XdgDesktopFile::startDetached" ref="classXdgDesktopFile.html#a428f34aa4a0ca265e20582f634aa6625" />
+      <keyword name="icon" id="XdgDesktopFile::icon" ref="classXdgDesktopFile.html#accade347aeba83a7e39940f9df4dda0a" />
+      <keyword name="name" id="XdgDesktopFile::name" ref="classXdgDesktopFile.html#ad3bdd71e052199e970308875dad41d8c" />
+      <keyword name="comment" id="XdgDesktopFile::comment" ref="classXdgDesktopFile.html#afbc7ca25089106a3b584f32b593c80e7" />
+      <keyword name="ApplicationType" id="XdgDesktopFile::ApplicationType" ref="classXdgDesktopFile.html#a7642a26a42a92e7a83dccaa6eff3b50ba69aaa92ca88b3526bd50fa8923363d03" />
+      <keyword name="LinkType" id="XdgDesktopFile::LinkType" ref="classXdgDesktopFile.html#a7642a26a42a92e7a83dccaa6eff3b50ba6cb916555b85a83ec25f30f3b13f0087" />
+      <keyword name="DirectoryType" id="XdgDesktopFile::DirectoryType" ref="classXdgDesktopFile.html#a7642a26a42a92e7a83dccaa6eff3b50ba8cb5c25eaa531abf28836b23dd49e56f" />
+      <keyword name="XdgDesktopFileCache" id="XdgDesktopFileCache" ref="classXdgDesktopFileCache.html" />
+      <keyword name="getFile" id="XdgDesktopFileCache::getFile" ref="classXdgDesktopFileCache.html#a0f95baae40b31e420eb7d46dbd854ff9" />
+      <keyword name="getDefaultApp" id="XdgDesktopFileCache::getDefaultApp" ref="classXdgDesktopFileCache.html#a6aa7d06fce292346f7fc53c0f4532db7" />
+      <keyword name="XdgDesktopFilePrivate" id="XdgDesktopFilePrivate" ref="classXdgDesktopFilePrivate.html" />
+      <keyword name="XdgDesktopFilePrivate" id="XdgDesktopFilePrivate::XdgDesktopFilePrivate" ref="classXdgDesktopFilePrivate.html#adaf0ff380c3e385ff04cfbbc0c8ffcce" />
+      <keyword name="prefix" id="XdgDesktopFilePrivate::prefix" ref="classXdgDesktopFilePrivate.html#afdaa29df18f1c1da10cbb51957d85bdc" />
+      <keyword name="setPrefix" id="XdgDesktopFilePrivate::setPrefix" ref="classXdgDesktopFilePrivate.html#af5cc8f46e90460225327dbff96bf2d83" />
+      <keyword name="fileName" id="XdgDesktopFilePrivate::fileName" ref="classXdgDesktopFilePrivate.html#aa9f7a5913fad60c823caa0adf52f7125" />
+      <keyword name="setFileName" id="XdgDesktopFilePrivate::setFileName" ref="classXdgDesktopFilePrivate.html#a4dc758f87c17992a1e42ac45c5bc94a1" />
+      <keyword name="operator=" id="XdgDesktopFilePrivate::operator=" ref="classXdgDesktopFilePrivate.html#a4cbd42562d65b8ac0642db2f8d5dcb13" />
+      <keyword name="read" id="XdgDesktopFilePrivate::read" ref="classXdgDesktopFilePrivate.html#a81fdc68535b276f4d606ed3500d8fb50" />
+      <keyword name="isValid" id="XdgDesktopFilePrivate::isValid" ref="classXdgDesktopFilePrivate.html#a2b38e0f0ed267627df2eb7483cba50f6" />
+      <keyword name="value" id="XdgDesktopFilePrivate::value" ref="classXdgDesktopFilePrivate.html#a81d43dd2b7bdefdbc26af39314060a26" />
+      <keyword name="localizedValue" id="XdgDesktopFilePrivate::localizedValue" ref="classXdgDesktopFilePrivate.html#ad60ef4965ea19cafbe83988b092d5241" />
+      <keyword name="contains" id="XdgDesktopFilePrivate::contains" ref="classXdgDesktopFilePrivate.html#a8c5c94821e4ac5ded1443c249f451e5e" />
+      <keyword name="isShow" id="XdgDesktopFilePrivate::isShow" ref="classXdgDesktopFilePrivate.html#ac32fd0909a7c9408c3d85f9d53306ecf" />
+      <keyword name="startApplicationDetached" id="XdgDesktopFilePrivate::startApplicationDetached" ref="classXdgDesktopFilePrivate.html#a88c043319214749c3d8d766bf8cde843" />
+      <keyword name="startLinkDetached" id="XdgDesktopFilePrivate::startLinkDetached" ref="classXdgDesktopFilePrivate.html#aec556b2ed22f25a3f6d97ede67c843a7" />
+      <keyword name="icon" id="XdgDesktopFilePrivate::icon" ref="classXdgDesktopFilePrivate.html#af78c970b4cdc5f31c100257b0895495e" />
+      <keyword name="mType" id="XdgDesktopFilePrivate::mType" ref="classXdgDesktopFilePrivate.html#a8153ba85bc7602c071be65a11d05990e" />
+      <keyword name="checkTryExec" id="XdgDesktopFilePrivate::checkTryExec" ref="classXdgDesktopFilePrivate.html#a28702462e3bfa4479aeadc3d235ef4dc" />
+      <keyword name="expandExecString" id="XdgDesktopFilePrivate::expandExecString" ref="classXdgDesktopFilePrivate.html#a63ada95e2045bbaebf3dc4c4cdca9957" />
+      <keyword name="XdgEnv" id="XdgEnv" ref="classXdgEnv.html" />
+      <keyword name="configDirs" id="XdgEnv::configDirs" ref="classXdgEnv.html#a6598240c2a3044556dee711e628d71cd" />
+      <keyword name="configHome" id="XdgEnv::configHome" ref="classXdgEnv.html#a6a83c50bdd2859fd48446eebfc7e11ee" />
+      <keyword name="dataDirs" id="XdgEnv::dataDirs" ref="classXdgEnv.html#af48f1fa6a3d85cbfc0efadf0cc299cf7" />
+      <keyword name="XdgIcon" id="XdgIcon" ref="classXdgIcon.html" />
+      <keyword name="fromTheme" id="XdgIcon::fromTheme" ref="classXdgIcon.html#a3afcff62dc43ff1ddc57ff5c5544f9b1" />
+      <keyword name="fromTheme" id="XdgIcon::fromTheme" ref="classXdgIcon.html#a806fbbea1f3a10fdb14b3aca9cceca89" />
+      <keyword name="themeName" id="XdgIcon::themeName" ref="classXdgIcon.html#a4567b19e6b0590377191210dfd4574ea" />
+      <keyword name="setThemeName" id="XdgIcon::setThemeName" ref="classXdgIcon.html#ac93ee8ced071f15c65839b5c9e5274ac" />
+      <keyword name="defaultApplicationIcon" id="XdgIcon::defaultApplicationIcon" ref="classXdgIcon.html#ab717427f9dd0e59a884af9239ebfea11" />
+      <keyword name="XdgIconCache" id="XdgIconCache" ref="classXdgIconCache.html" />
+      <keyword name="themeName" id="XdgIconCache::themeName" ref="classXdgIconCache.html#a0cd107d97080856d77a5cd626bd70dec" />
+      <keyword name="setThemeName" id="XdgIconCache::setThemeName" ref="classXdgIconCache.html#ae4b165600374f530c45372502808c544" />
+      <keyword name="fromTheme" id="XdgIconCache::fromTheme" ref="classXdgIconCache.html#aca17bac06d4783c7d11633a72a4bbe27" />
+      <keyword name="instance" id="XdgIconCache::instance" ref="classXdgIconCache.html#a8cf8ba4711bb5a5fe2380374e2fe97bc" />
+      <keyword name="XdgIcon" id="XdgIconCache::XdgIcon" ref="classXdgIconCache.html#a38b78238dac7ecf4e596a244d1e2349f" />
+      <keyword name="XdgIconThemeFile" id="XdgIconThemeFile" ref="classXdgIconThemeFile.html" />
+      <keyword name="XdgIconThemeFile" id="XdgIconThemeFile::XdgIconThemeFile" ref="classXdgIconThemeFile.html#ac727172f1a24bd8b334fbeb8fdfbfb08" />
+      <keyword name="~XdgIconThemeFile" id="XdgIconThemeFile::~XdgIconThemeFile" ref="classXdgIconThemeFile.html#acf3788d435f4a0818d837f7c72d3d079" />
+      <keyword name="parseFile" id="XdgIconThemeFile::parseFile" ref="classXdgIconThemeFile.html#a464afa85cf6647023f29a77f554d69d2" />
+      <keyword name="searchDirs" id="XdgIconThemeFile::searchDirs" ref="classXdgIconThemeFile.html#ac135d1370f0bf1934c1864a5d591078d" />
+      <keyword name="searchIcon" id="XdgIconThemeFile::searchIcon" ref="classXdgIconThemeFile.html#a351888cd6fc3d7fceaeac7874015ddd9" />
+      <keyword name="getName" id="XdgIconThemeFile::getName" ref="classXdgIconThemeFile.html#a19e59dee4772d09216a91047f6ef2e71" />
+      <keyword name="XdgIconThemeManager" id="XdgIconThemeManager" ref="classXdgIconThemeManager.html" />
+      <keyword name="XdgIconThemeManager" id="XdgIconThemeManager::XdgIconThemeManager" ref="classXdgIconThemeManager.html#a07b89b6facc4460074dfa7deec44cb7c" />
+      <keyword name="~XdgIconThemeManager" id="XdgIconThemeManager::~XdgIconThemeManager" ref="classXdgIconThemeManager.html#a60434af685c4bc3a7294e1892a23dcd0" />
+      <keyword name="getIconNG" id="XdgIconThemeManager::getIconNG" ref="classXdgIconThemeManager.html#a1d18445ef2294452aaaa142452753c62" />
+      <keyword name="getIconpath" id="XdgIconThemeManager::getIconpath" ref="classXdgIconThemeManager.html#a3c07c63eeb06c81a26e81d16181747d2" />
+      <keyword name="legacyMap" id="XdgIconThemeManager::legacyMap" ref="classXdgIconThemeManager.html#a5e5378932b8d8912f9f30f1e0aaf655c" />
+      <keyword name="XdgManager" id="XdgManager" ref="classXdgManager.html" />
+      <keyword name="XdgManager" id="XdgManager::XdgManager" ref="classXdgManager.html#a35d9f17e7670cb804c5b7692ae8ba663" />
+      <keyword name="~XdgManager" id="XdgManager::~XdgManager" ref="classXdgManager.html#a0cfe4f64412682da3da60b35c8d7cf56" />
+      <keyword name="get_xdgautostart" id="XdgManager::get_xdgautostart" ref="classXdgManager.html#a5cb3acc25e83519a94ae88b5849feac8" />
+      <keyword name="get_xdgiconthememanager" id="XdgManager::get_xdgiconthememanager" ref="classXdgManager.html#a05fb59bfa054c21a29f59d1562506d53" />
+      <keyword name="XdgMenu" id="XdgMenu" ref="classXdgMenu.html" />
+      <keyword name="XdgMenu" id="XdgMenu::XdgMenu" ref="classXdgMenu.html#aac8a022d3c752a26791188681500cb5c" />
+      <keyword name="read" id="XdgMenu::read" ref="classXdgMenu.html#a0534004d82f165b2539dee8837d24ea9" />
+      <keyword name="save" id="XdgMenu::save" ref="classXdgMenu.html#a2e0075806065ad1d2ac60ede90511e50" />
+      <keyword name="xml" id="XdgMenu::xml" ref="classXdgMenu.html#a113280d4bd99ebb227587e068e993425" />
+      <keyword name="menuFileName" id="XdgMenu::menuFileName" ref="classXdgMenu.html#adabdfc49bc162c8ef82bba47c7813713" />
+      <keyword name="findMenu" id="XdgMenu::findMenu" ref="classXdgMenu.html#a9dd8858111f97bfba76a08313fe34228" />
+      <keyword name="environments" id="XdgMenu::environments" ref="classXdgMenu.html#aaec599c06ec9e5b39cb8b01e3d4cc791" />
+      <keyword name="errorString" id="XdgMenu::errorString" ref="classXdgMenu.html#a4864626056b7f9c149e9c3689332a3b4" />
+      <keyword name="logDir" id="XdgMenu::logDir" ref="classXdgMenu.html#a1b5bcc660baafbb08913ae0e91dca09f" />
+      <keyword name="setLogDir" id="XdgMenu::setLogDir" ref="classXdgMenu.html#aa66b7b31ab6187b253302b1540eac5b4" />
+      <keyword name="isOutDated" id="XdgMenu::isOutDated" ref="classXdgMenu.html#a1765243717d651354a5b6f3d0bc347ee" />
+      <keyword name="getMenuFileName" id="XdgMenu::getMenuFileName" ref="classXdgMenu.html#a76dcf52cd855da9932bcca08dfc29d36" />
+      <keyword name="addWatchPath" id="XdgMenu::addWatchPath" ref="classXdgMenu.html#a7484481b5eb8943e2492eda94e0a9a2d" />
+      <keyword name="XdgMenuReader" id="XdgMenu::XdgMenuReader" ref="classXdgMenu.html#ada3c48ff76f0d045749fc722638231e9" />
+      <keyword name="XdgMenuApplinkProcessor" id="XdgMenu::XdgMenuApplinkProcessor" ref="classXdgMenu.html#a406396dc41c904e8e42f8e55b8d60a8a" />
+      <keyword name="XdgMenuAppFileInfo" id="XdgMenuAppFileInfo" ref="classXdgMenuAppFileInfo.html" />
+      <keyword name="XdgMenuAppFileInfo" id="XdgMenuAppFileInfo::XdgMenuAppFileInfo" ref="classXdgMenuAppFileInfo.html#a104df643ff847f3aed6b9aed0d280186" />
+      <keyword name="desktopFile" id="XdgMenuAppFileInfo::desktopFile" ref="classXdgMenuAppFileInfo.html#ae2fdddf6711ded51106a3e2f939a1c67" />
+      <keyword name="allocated" id="XdgMenuAppFileInfo::allocated" ref="classXdgMenuAppFileInfo.html#abeb779d2aee930567f93a81cac9706cc" />
+      <keyword name="setAllocated" id="XdgMenuAppFileInfo::setAllocated" ref="classXdgMenuAppFileInfo.html#a7c1f9a235300d725a1c7968d3416575e" />
+      <keyword name="id" id="XdgMenuAppFileInfo::id" ref="classXdgMenuAppFileInfo.html#ab311038262c2894faa8a1a4de29ecb3a" />
+      <keyword name="XdgMenuApplinkProcessor" id="XdgMenuApplinkProcessor" ref="classXdgMenuApplinkProcessor.html" />
+      <keyword name="XdgMenuApplinkProcessor" id="XdgMenuApplinkProcessor::XdgMenuApplinkProcessor" ref="classXdgMenuApplinkProcessor.html#ab234b900e160dca4c2bc3690d456474d" />
+      <keyword name="run" id="XdgMenuApplinkProcessor::run" ref="classXdgMenuApplinkProcessor.html#a4ad7e78e09a3e24a2247bd72c7c0214a" />
+      <keyword name="step1" id="XdgMenuApplinkProcessor::step1" ref="classXdgMenuApplinkProcessor.html#a0aed2a90a3bb0009c2859143d945f77e" />
+      <keyword name="step2" id="XdgMenuApplinkProcessor::step2" ref="classXdgMenuApplinkProcessor.html#ad76fbfa9cb1a1c7bd6aba22bc8afbe43" />
+      <keyword name="fillAppFileInfoList" id="XdgMenuApplinkProcessor::fillAppFileInfoList" ref="classXdgMenuApplinkProcessor.html#a16db32b6dd4b8fa8058e4b95be6344ba" />
+      <keyword name="findDesktopFiles" id="XdgMenuApplinkProcessor::findDesktopFiles" ref="classXdgMenuApplinkProcessor.html#a8e59a7af25736c3e6ff56fda6bf2ee0d" />
+      <keyword name="createRules" id="XdgMenuApplinkProcessor::createRules" ref="classXdgMenuApplinkProcessor.html#ab274fcc4daed73117385959cf4231f4e" />
+      <keyword name="checkTryExec" id="XdgMenuApplinkProcessor::checkTryExec" ref="classXdgMenuApplinkProcessor.html#a10342875f0b6b0c9ed7ee32af15ce1a2" />
+      <keyword name="XdgMenuLayoutProcessor" id="XdgMenuLayoutProcessor" ref="classXdgMenuLayoutProcessor.html" />
+      <keyword name="XdgMenuLayoutProcessor" id="XdgMenuLayoutProcessor::XdgMenuLayoutProcessor" ref="classXdgMenuLayoutProcessor.html#a7928936c727eb05648cd481f026018f5" />
+      <keyword name="run" id="XdgMenuLayoutProcessor::run" ref="classXdgMenuLayoutProcessor.html#a81fda0acaa0c399457a8d0c9bd4eb8d4" />
+      <keyword name="XdgMenuLayoutProcessor" id="XdgMenuLayoutProcessor::XdgMenuLayoutProcessor" ref="classXdgMenuLayoutProcessor.html#a708688cc90e022d0e530637c800fb4ca" />
+      <keyword name="XdgMenuPrivate" id="XdgMenuPrivate" ref="classXdgMenuPrivate.html" />
+      <keyword name="fileChanged" id="XdgMenuPrivate::fileChanged" ref="classXdgMenuPrivate.html#afa7cc5b1820142be799dce96dc1cd8d5" />
+      <keyword name="XdgMenuPrivate" id="XdgMenuPrivate::XdgMenuPrivate" ref="classXdgMenuPrivate.html#a493ec1ae05e1d83b48cd94b167807f5b" />
+      <keyword name="simplify" id="XdgMenuPrivate::simplify" ref="classXdgMenuPrivate.html#abaa419d25a23420052efa18a77cc64e9" />
+      <keyword name="mergeMenus" id="XdgMenuPrivate::mergeMenus" ref="classXdgMenuPrivate.html#ad68f5f1134cd7e01c78449abd9b8c6d7" />
+      <keyword name="moveMenus" id="XdgMenuPrivate::moveMenus" ref="classXdgMenuPrivate.html#a4e1f6c00f9598fa9ff6d392227b81efb" />
+      <keyword name="deleteDeletedMenus" id="XdgMenuPrivate::deleteDeletedMenus" ref="classXdgMenuPrivate.html#a5c201dfcf09f438c9168b1e6f68e7529" />
+      <keyword name="processDirectoryEntries" id="XdgMenuPrivate::processDirectoryEntries" ref="classXdgMenuPrivate.html#a0a2b38b6fce4e76f49594307dabdabfa" />
+      <keyword name="processApps" id="XdgMenuPrivate::processApps" ref="classXdgMenuPrivate.html#ad6b58a08b7991ac358233eccc2231868" />
+      <keyword name="deleteEmpty" id="XdgMenuPrivate::deleteEmpty" ref="classXdgMenuPrivate.html#a72289d61503b11c8e480c10a51e2f5e9" />
+      <keyword name="processLayouts" id="XdgMenuPrivate::processLayouts" ref="classXdgMenuPrivate.html#a59a45b968da82be5d2edae88f5065fc6" />
+      <keyword name="fixSeparators" id="XdgMenuPrivate::fixSeparators" ref="classXdgMenuPrivate.html#a7693ce5afcc4a592604ee3472fae5bae" />
+      <keyword name="loadDirectoryFile" id="XdgMenuPrivate::loadDirectoryFile" ref="classXdgMenuPrivate.html#ad680794ab50956b9b9cc11c8a00ef83c" />
+      <keyword name="prependChilds" id="XdgMenuPrivate::prependChilds" ref="classXdgMenuPrivate.html#aeddc0b83feae79b2c3eb324f37f7a5bd" />
+      <keyword name="appendChilds" id="XdgMenuPrivate::appendChilds" ref="classXdgMenuPrivate.html#a645c7625fb8ccf2f7d2eee10382e4e7b" />
+      <keyword name="saveLog" id="XdgMenuPrivate::saveLog" ref="classXdgMenuPrivate.html#a3674dd572bb35a4f604ab1ffb3bb89be" />
+      <keyword name="clearWatcher" id="XdgMenuPrivate::clearWatcher" ref="classXdgMenuPrivate.html#a61a930734a6c6508cd9af32f40c4641e" />
+      <keyword name="mErrorString" id="XdgMenuPrivate::mErrorString" ref="classXdgMenuPrivate.html#a0f354ae6693390b93b7b6bc9d1175395" />
+      <keyword name="mEnvironments" id="XdgMenuPrivate::mEnvironments" ref="classXdgMenuPrivate.html#a8856eace07a0ba18a4953ada9e317bfc" />
+      <keyword name="mMenuFileName" id="XdgMenuPrivate::mMenuFileName" ref="classXdgMenuPrivate.html#adc95a9b513a2be17ef24bf568cd8759e" />
+      <keyword name="mLogDir" id="XdgMenuPrivate::mLogDir" ref="classXdgMenuPrivate.html#a030ef87578b0756da8cf0f6ab4913d6e" />
+      <keyword name="mXml" id="XdgMenuPrivate::mXml" ref="classXdgMenuPrivate.html#a2c25713f016177520adf64ab355f523f" />
+      <keyword name="mWatcher" id="XdgMenuPrivate::mWatcher" ref="classXdgMenuPrivate.html#a2a73912e15df7c2b223d0ceb0d2a8375" />
+      <keyword name="mOutDated" id="XdgMenuPrivate::mOutDated" ref="classXdgMenuPrivate.html#abdb1afbdcabf0be64b35aed29b2de6b6" />
+      <keyword name="XdgMenuReader" id="XdgMenuReader" ref="classXdgMenuReader.html" />
+      <keyword name="XdgMenuReader" id="XdgMenuReader::XdgMenuReader" ref="classXdgMenuReader.html#a601901b81dcb17441f66ca757a5c598b" />
+      <keyword name="load" id="XdgMenuReader::load" ref="classXdgMenuReader.html#aebc160cf37cdde5b2b41843f2dbeaf57" />
+      <keyword name="fileName" id="XdgMenuReader::fileName" ref="classXdgMenuReader.html#a155a9c315719bb74983b9bed290739cb" />
+      <keyword name="errorString" id="XdgMenuReader::errorString" ref="classXdgMenuReader.html#a163de975617cdd1755bdcfe8da6fdd8b" />
+      <keyword name="xml" id="XdgMenuReader::xml" ref="classXdgMenuReader.html#a91a1c5e1250782b9ee26d443f3db7372" />
+      <keyword name="processMergeTags" id="XdgMenuReader::processMergeTags" ref="classXdgMenuReader.html#ab215c868c1babe503a452e8ec29cac81" />
+      <keyword name="processMergeFileTag" id="XdgMenuReader::processMergeFileTag" ref="classXdgMenuReader.html#abe814c5dac330b738700ca30951a56ee" />
+      <keyword name="processMergeDirTag" id="XdgMenuReader::processMergeDirTag" ref="classXdgMenuReader.html#aed919d1d3b82232067ac3f2165bc56ae" />
+      <keyword name="processDefaultMergeDirsTag" id="XdgMenuReader::processDefaultMergeDirsTag" ref="classXdgMenuReader.html#a73e6c99751ec62ad0772cbccada369f4" />
+      <keyword name="processAppDirTag" id="XdgMenuReader::processAppDirTag" ref="classXdgMenuReader.html#aed253ddeb77cebaa2c9118c48fd82a0b" />
+      <keyword name="processDefaultAppDirsTag" id="XdgMenuReader::processDefaultAppDirsTag" ref="classXdgMenuReader.html#ae6123a0335e89d269cb336f54b1b2d06" />
+      <keyword name="processDirectoryDirTag" id="XdgMenuReader::processDirectoryDirTag" ref="classXdgMenuReader.html#a433e1012855ba74fc1a8abc5544cac11" />
+      <keyword name="processDefaultDirectoryDirsTag" id="XdgMenuReader::processDefaultDirectoryDirsTag" ref="classXdgMenuReader.html#aca3172989d6808944c5ba0809ef06df8" />
+      <keyword name="addDirTag" id="XdgMenuReader::addDirTag" ref="classXdgMenuReader.html#a734c232d9b459f95051d64c0e2b37431" />
+      <keyword name="mergeFile" id="XdgMenuReader::mergeFile" ref="classXdgMenuReader.html#adb6720026db79722ed866ed655ad6d70" />
+      <keyword name="mergeDir" id="XdgMenuReader::mergeDir" ref="classXdgMenuReader.html#a89c3ae389e20b610dae5c610615eef71" />
+      <keyword name="XdgMenuRule" id="XdgMenuRule" ref="classXdgMenuRule.html" />
+      <keyword name="XdgMenuRule" id="XdgMenuRule::XdgMenuRule" ref="classXdgMenuRule.html#aa046c66eb78bbd81b0a525faa229d878" />
+      <keyword name="check" id="XdgMenuRule::check" ref="classXdgMenuRule.html#a1b54b0f13ec5fefd5b5353e5030c7473" />
+      <keyword name="XdgMenuRuleAll" id="XdgMenuRuleAll" ref="classXdgMenuRuleAll.html" />
+      <keyword name="XdgMenuRuleAll" id="XdgMenuRuleAll::XdgMenuRuleAll" ref="classXdgMenuRuleAll.html#aebeb5b4dd09b11223d258967fe5f84af" />
+      <keyword name="check" id="XdgMenuRuleAll::check" ref="classXdgMenuRuleAll.html#a06511464d2a6e6275a35fe354f504e54" />
+      <keyword name="XdgMenuRuleAnd" id="XdgMenuRuleAnd" ref="classXdgMenuRuleAnd.html" />
+      <keyword name="XdgMenuRuleAnd" id="XdgMenuRuleAnd::XdgMenuRuleAnd" ref="classXdgMenuRuleAnd.html#a596cfae4cdea03b33c3fc5468db59e91" />
+      <keyword name="check" id="XdgMenuRuleAnd::check" ref="classXdgMenuRuleAnd.html#aa4a2c1dccb03b346b483bde370301b4d" />
+      <keyword name="XdgMenuRuleCategory" id="XdgMenuRuleCategory" ref="classXdgMenuRuleCategory.html" />
+      <keyword name="XdgMenuRuleCategory" id="XdgMenuRuleCategory::XdgMenuRuleCategory" ref="classXdgMenuRuleCategory.html#a22ef5bc16e126292bb5284b559339f62" />
+      <keyword name="check" id="XdgMenuRuleCategory::check" ref="classXdgMenuRuleCategory.html#a97d61be9cb0b65104d9d32fd6a48402c" />
+      <keyword name="XdgMenuRuleFileName" id="XdgMenuRuleFileName" ref="classXdgMenuRuleFileName.html" />
+      <keyword name="XdgMenuRuleFileName" id="XdgMenuRuleFileName::XdgMenuRuleFileName" ref="classXdgMenuRuleFileName.html#a560cf7ea72955b56fdb953fbaf57d95a" />
+      <keyword name="check" id="XdgMenuRuleFileName::check" ref="classXdgMenuRuleFileName.html#a259a0dedd30ac60e8b42b666b8ffafd0" />
+      <keyword name="XdgMenuRuleNot" id="XdgMenuRuleNot" ref="classXdgMenuRuleNot.html" />
+      <keyword name="XdgMenuRuleNot" id="XdgMenuRuleNot::XdgMenuRuleNot" ref="classXdgMenuRuleNot.html#aaa8df6f0bc217f3ff4a75ea643f0d7d8" />
+      <keyword name="check" id="XdgMenuRuleNot::check" ref="classXdgMenuRuleNot.html#a529055f2854afb0d02128f5197ad76db" />
+      <keyword name="XdgMenuRuleOr" id="XdgMenuRuleOr" ref="classXdgMenuRuleOr.html" />
+      <keyword name="XdgMenuRuleOr" id="XdgMenuRuleOr::XdgMenuRuleOr" ref="classXdgMenuRuleOr.html#a9eed4c2d5e509dc8b3261eddb867ebb9" />
+      <keyword name="check" id="XdgMenuRuleOr::check" ref="classXdgMenuRuleOr.html#a4df49824b5d5396a14dea7243bb36b0a" />
+      <keyword name="mChilds" id="XdgMenuRuleOr::mChilds" ref="classXdgMenuRuleOr.html#a8f3c2f7cf7429d55aeef41b47b77f45e" />
+      <keyword name="XdgMenuRules" id="XdgMenuRules" ref="classXdgMenuRules.html" />
+      <keyword name="XdgMenuRules" id="XdgMenuRules::XdgMenuRules" ref="classXdgMenuRules.html#a9b3ab057e2c1c0dd078895fd0f832580" />
+      <keyword name="addInclude" id="XdgMenuRules::addInclude" ref="classXdgMenuRules.html#af9b6d44bed63e622858bde331b065a7c" />
+      <keyword name="addExclude" id="XdgMenuRules::addExclude" ref="classXdgMenuRules.html#a9573a7ec4cadba856dce2536a77170ca" />
+      <keyword name="checkInclude" id="XdgMenuRules::checkInclude" ref="classXdgMenuRules.html#acb8034edec8b12445c5219e979bc6360" />
+      <keyword name="checkExclude" id="XdgMenuRules::checkExclude" ref="classXdgMenuRules.html#a5aa4036a685aab05d965ca4046e1cfe0" />
+      <keyword name="mIncludeRules" id="XdgMenuRules::mIncludeRules" ref="classXdgMenuRules.html#aebdb1d24dd7659d7f29de4e01c542eec" />
+      <keyword name="mExcludeRules" id="XdgMenuRules::mExcludeRules" ref="classXdgMenuRules.html#af9688e7fed55cc377f943691aa356e6f" />
+      <keyword name="XdgMenuWidget" id="XdgMenuWidget" ref="classXdgMenuWidget.html" />
+      <keyword name="XdgMenuWidget" id="XdgMenuWidget::XdgMenuWidget" ref="classXdgMenuWidget.html#ae6c51d08a6c6afc318e1455fd64e3105" />
+      <keyword name="XdgMenuWidget" id="XdgMenuWidget::XdgMenuWidget" ref="classXdgMenuWidget.html#adc7215336569b9324ad4f8843639b7a4" />
+      <keyword name="XdgMenuWidget" id="XdgMenuWidget::XdgMenuWidget" ref="classXdgMenuWidget.html#a83e5f9d3eecb2d5dbf8a8a1c84a633ac" />
+      <keyword name="operator=" id="XdgMenuWidget::operator=" ref="classXdgMenuWidget.html#aedab7e20543516c49bc6b762ec4b72c1" />
+      <keyword name="~XdgMenuWidget" id="XdgMenuWidget::~XdgMenuWidget" ref="classXdgMenuWidget.html#af945bd7f1e5e12fb47df558b7a0da986" />
+      <keyword name="sizeHint" id="XdgMenuWidget::sizeHint" ref="classXdgMenuWidget.html#af55a5f2c640f50c65181c08e8b7c68d7" />
+      <keyword name="event" id="XdgMenuWidget::event" ref="classXdgMenuWidget.html#ac50e30eeef178cb12c3357879c6880a1" />
+      <keyword name="XdgMenuWidgetPrivate" id="XdgMenuWidgetPrivate" ref="classXdgMenuWidgetPrivate.html" />
+      <keyword name="XdgMenuWidgetPrivate" id="XdgMenuWidgetPrivate::XdgMenuWidgetPrivate" ref="classXdgMenuWidgetPrivate.html#a43164c9dea45fd5606f46e89e3dc2649" />
+      <keyword name="init" id="XdgMenuWidgetPrivate::init" ref="classXdgMenuWidgetPrivate.html#ac9a73fcf35549e7acb3214a9286e1035" />
+      <keyword name="buildMenu" id="XdgMenuWidgetPrivate::buildMenu" ref="classXdgMenuWidgetPrivate.html#ad1a07e518f9305584f701661632b1f22" />
+      <keyword name="mouseMoveEvent" id="XdgMenuWidgetPrivate::mouseMoveEvent" ref="classXdgMenuWidgetPrivate.html#a9579fa35754d0f20bba43dc00695713b" />
+      <keyword name="mXml" id="XdgMenuWidgetPrivate::mXml" ref="classXdgMenuWidgetPrivate.html#ab05f177daf0ea453c4fef1e00cf52b5b" />
+      <keyword name="mNeedBuild" id="XdgMenuWidgetPrivate::mNeedBuild" ref="classXdgMenuWidgetPrivate.html#a08d5004a3a1bf3226233b6cc4baf557d" />
+      <keyword name="mDragStartPosition" id="XdgMenuWidgetPrivate::mDragStartPosition" ref="classXdgMenuWidgetPrivate.html#a6dead9aa110e8fb81a5897ab04be8aff" />
+      <keyword name="XfitMan" id="XfitMan" ref="classXfitMan.html" />
+      <keyword name="~XfitMan" id="XfitMan::~XfitMan" ref="classXfitMan.html#afee70ad02b69189e4f27345b38639ee1" />
+      <keyword name="XfitMan" id="XfitMan::XfitMan" ref="classXfitMan.html#a74fc60cbcfb53240490f8cdbbd26e5ec" />
+      <keyword name="moveWindow" id="XfitMan::moveWindow" ref="classXfitMan.html#a2e5e9d687c298a727df3b5605cff3638" />
+      <keyword name="setStrut" id="XfitMan::setStrut" ref="classXfitMan.html#af29e0119ee9d838d46f83b2d3d15d780" />
+      <keyword name="getClientList" id="XfitMan::getClientList" ref="classXfitMan.html#a92ed8293c52e4e1adfcc11a0462e8a8a" />
+      <keyword name="getClientIcon" id="XfitMan::getClientIcon" ref="classXfitMan.html#ab1408894cb38d30dbb666e398b735b47" />
+      <keyword name="getWindowDesktop" id="XfitMan::getWindowDesktop" ref="classXfitMan.html#a0877e2ec819270ebb80dd5f5650559e5" />
+      <keyword name="moveWindowToDesktop" id="XfitMan::moveWindowToDesktop" ref="classXfitMan.html#a3bd931980165ce35c50f497e8b102729" />
+      <keyword name="raiseWindow" id="XfitMan::raiseWindow" ref="classXfitMan.html#a50fd14369591bb0a375e66ee65e63938" />
+      <keyword name="minimizeWindow" id="XfitMan::minimizeWindow" ref="classXfitMan.html#a0d9b70a4ef779969aa58c17e31ec6769" />
+      <keyword name="maximizeWindow" id="XfitMan::maximizeWindow" ref="classXfitMan.html#a91f2cd3e7135b1805936a70280d264cf" />
+      <keyword name="deMaximizeWindow" id="XfitMan::deMaximizeWindow" ref="classXfitMan.html#a30d9ad52c38bf71f31f3c79e9222df7d" />
+      <keyword name="shadeWindow" id="XfitMan::shadeWindow" ref="classXfitMan.html#acf91815c41ed2296f7a732c15319af0e" />
+      <keyword name="resizeWindow" id="XfitMan::resizeWindow" ref="classXfitMan.html#ac0c6d25dec3e8ff8f6a2d3785c9bd31a" />
+      <keyword name="closeWindow" id="XfitMan::closeWindow" ref="classXfitMan.html#a87ff0c09cd8d1b03b6757eecab7f2c55" />
+      <keyword name="setWindowLayer" id="XfitMan::setWindowLayer" ref="classXfitMan.html#a30ae5c1b1b3a5a89fddc7880530e4c29" />
+      <keyword name="setActiveDesktop" id="XfitMan::setActiveDesktop" ref="classXfitMan.html#a08bd88a2a1aa569152482c2ec7b0753e" />
+      <keyword name="isHidden" id="XfitMan::isHidden" ref="classXfitMan.html#aa3b714c001fedee9cb45f8221c96960f" />
+      <keyword name="getAllowedActions" id="XfitMan::getAllowedActions" ref="classXfitMan.html#a4d704daad628da6d9e8e23f8f6585b4b" />
+      <keyword name="getWindowState" id="XfitMan::getWindowState" ref="classXfitMan.html#a9721b4b5a10484deb5623cce0a8ede87" />
+      <keyword name="getActiveDesktop" id="XfitMan::getActiveDesktop" ref="classXfitMan.html#a170703a3f0d339b5789aca84cf29eb39" />
+      <keyword name="getActiveAppWindow" id="XfitMan::getActiveAppWindow" ref="classXfitMan.html#a2ff93c00f7fca3d577e69910170389c0" />
+      <keyword name="getActiveWindow" id="XfitMan::getActiveWindow" ref="classXfitMan.html#abd9bd19cff883a6ff672867f1e6edf07" />
+      <keyword name="getNumDesktop" id="XfitMan::getNumDesktop" ref="classXfitMan.html#a3f67592080f67e1762824f3e44807a0a" />
+      <keyword name="getName" id="XfitMan::getName" ref="classXfitMan.html#a17c589510bfcb2421b28005c590648c9" />
+      <keyword name="acceptWindow" id="XfitMan::acceptWindow" ref="classXfitMan.html#a1b528f0e0ef0a6a73d4b8316b3ebd2ac" />
+      <keyword name="getWindowType" id="XfitMan::getWindowType" ref="classXfitMan.html#aff4126efb1ea1b52f33c9a0934cb32c1" />
+      <keyword name="atom" id="XfitMan::atom" ref="classXfitMan.html#aa5bf5deb39c4727577501936fc926867" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>doxygen.css</file>
+      <file>/search/mag_sel.png</file>
+      <file>/search/search_l.png</file>
+      <file>/search/search_m.png</file>
+      <file>/search/search_r.png</file>
+      <file>/search/close.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>index.html</file>
+      <file>pages.html</file>
+      <file>battery_8h_source.html</file>
+      <file>ucpufreq_8h_source.html</file>
+      <file>upower_8h_source.html</file>
+      <file>addplugindialog_8h_source.html</file>
+      <file>domhelper_8h_source.html</file>
+      <file>powermanager_8h_source.html</file>
+      <file>razoraboutdlg_8h_source.html</file>
+      <file>razordevman_8h_source.html</file>
+      <file>razorhal_8h_source.html</file>
+      <file>razormime_8h_source.html</file>
+      <file>razorplugininfo_8h_source.html</file>
+      <file>razorsettings_8h_source.html</file>
+      <file>screensaver_8h_source.html</file>
+      <file>xdgaction_8h_source.html</file>
+      <file>xdgautostart_8h_source.html</file>
+      <file>xdgdesktopfile_8h_source.html</file>
+      <file>xdgenv_8h_source.html</file>
+      <file>xdgicon_8h_source.html</file>
+      <file>xdgiconthemefile_8h_source.html</file>
+      <file>xdgiconthememanager_8h_source.html</file>
+      <file>xdgmanager_8h_source.html</file>
+      <file>xdgmenu_8h_source.html</file>
+      <file>xdgmenu__p_8h_source.html</file>
+      <file>xdgmenuapplinkprocessor_8h_source.html</file>
+      <file>xdgmenulayoutprocessor_8h_source.html</file>
+      <file>xdgmenureader_8h_source.html</file>
+      <file>xdgmenurules_8h_source.html</file>
+      <file>xdgmenuwidget_8h_source.html</file>
+      <file>xfitman_8h_source.html</file>
+      <file>qxtglobal_8h_source.html</file>
+      <file>qxtglobalshortcut_8h_source.html</file>
+      <file>qxtglobalshortcut__p_8h_source.html</file>
+      <file>razorhal_8h.html</file>
+      <file>razorhal_8h__incl.png</file>
+      <file>xdgautostart_8h.html</file>
+      <file>xdgautostart_8h__incl.png</file>
+      <file>xdgautostart_8h__dep__incl.png</file>
+      <file>xdgiconthemefile_8cpp.html</file>
+      <file>xdgiconthemefile_8cpp__incl.png</file>
+      <file>xdgiconthemefile_8h.html</file>
+      <file>xdgiconthemefile_8h__incl.png</file>
+      <file>xdgiconthemefile_8h__dep__incl.png</file>
+      <file>xdgiconthememanager_8cpp.html</file>
+      <file>xdgiconthememanager_8cpp__incl.png</file>
+      <file>xdgiconthememanager_8h.html</file>
+      <file>xdgiconthememanager_8h__incl.png</file>
+      <file>xdgiconthememanager_8h__dep__incl.png</file>
+      <file>xdgmanager_8cpp.html</file>
+      <file>xdgmanager_8cpp__incl.png</file>
+      <file>xdgmanager_8h.html</file>
+      <file>xdgmanager_8h__incl.png</file>
+      <file>xdgmanager_8h__dep__incl.png</file>
+      <file>xfitman_8cpp.html</file>
+      <file>xfitman_8cpp__incl.png</file>
+      <file>xfitman_8h.html</file>
+      <file>xfitman_8h__incl.png</file>
+      <file>xfitman_8h__dep__incl.png</file>
+      <file>todo.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>functions.html</file>
+      <file>functions_func.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_eval.html</file>
+      <file>classAddPluginDialog.html</file>
+      <file>classAddPluginDialog__coll__graph.png</file>
+      <file>classAddPluginDialog-members.html</file>
+      <file>classBattery.html</file>
+      <file>classBattery-members.html</file>
+      <file>classDomElementIterator.html</file>
+      <file>classDomElementIterator-members.html</file>
+      <file>classHtmlDelegate.html</file>
+      <file>classHtmlDelegate-members.html</file>
+      <file>structLayoutItem.html</file>
+      <file>structLayoutItem-members.html</file>
+      <file>structLayoutParams.html</file>
+      <file>structLayoutParams-members.html</file>
+      <file>classMessageBox.html</file>
+      <file>classMessageBox-members.html</file>
+      <file>classMutableDomElementIterator.html</file>
+      <file>classMutableDomElementIterator-members.html</file>
+      <file>classPowerManager.html</file>
+      <file>classPowerManager__coll__graph.png</file>
+      <file>classPowerManager-members.html</file>
+      <file>classRazorAboutDLG.html</file>
+      <file>classRazorAboutDLG__coll__graph.png</file>
+      <file>classRazorAboutDLG-members.html</file>
+      <file>classRazorAboutDLGPrivate.html</file>
+      <file>classRazorAboutDLGPrivate-members.html</file>
+      <file>classRazorDev.html</file>
+      <file>classRazorDev__inherit__graph.png</file>
+      <file>classRazorDev-members.html</file>
+      <file>classRazorDevMan.html</file>
+      <file>classRazorDevMan__inherit__graph.png</file>
+      <file>classRazorDevMan-members.html</file>
+      <file>classRazorHal.html</file>
+      <file>classRazorHal__inherit__graph.png</file>
+      <file>classRazorHal__coll__graph.png</file>
+      <file>classRazorHal-members.html</file>
+      <file>classRazorHalDev.html</file>
+      <file>classRazorHalDev__inherit__graph.png</file>
+      <file>classRazorHalDev__coll__graph.png</file>
+      <file>classRazorHalDev-members.html</file>
+      <file>classRazorMimeInfo.html</file>
+      <file>classRazorMimeInfo-members.html</file>
+      <file>classRazorPluginInfo.html</file>
+      <file>classRazorPluginInfo__inherit__graph.png</file>
+      <file>classRazorPluginInfo__coll__graph.png</file>
+      <file>classRazorPluginInfo-members.html</file>
+      <file>classRazorPluginInfoList.html</file>
+      <file>classRazorPluginInfoList-members.html</file>
+      <file>classRazorSettings.html</file>
+      <file>classRazorSettings__coll__graph.png</file>
+      <file>classRazorSettings-members.html</file>
+      <file>classRazorSettingsCache.html</file>
+      <file>classRazorSettingsCache-members.html</file>
+      <file>classRazorSettingsPrivate.html</file>
+      <file>classRazorSettingsPrivate__coll__graph.png</file>
+      <file>classRazorSettingsPrivate-members.html</file>
+      <file>classRazorTheme.html</file>
+      <file>classRazorTheme__coll__graph.png</file>
+      <file>classRazorTheme-members.html</file>
+      <file>classRazorThemePrivate.html</file>
+      <file>classRazorThemePrivate__coll__graph.png</file>
+      <file>classRazorThemePrivate-members.html</file>
+      <file>classScreenSaver.html</file>
+      <file>classScreenSaver-members.html</file>
+      <file>classUCpufreq.html</file>
+      <file>classUCpufreq-members.html</file>
+      <file>classUPower.html</file>
+      <file>classUPower-members.html</file>
+      <file>structWindowAllowedActions.html</file>
+      <file>structWindowAllowedActions-members.html</file>
+      <file>structWindowState.html</file>
+      <file>structWindowState-members.html</file>
+      <file>classXdgAction.html</file>
+      <file>classXdgAction__coll__graph.png</file>
+      <file>classXdgAction-members.html</file>
+      <file>classXdgAutoStart.html</file>
+      <file>classXdgAutoStart-members.html</file>
+      <file>classXdgDesktopFile.html</file>
+      <file>classXdgDesktopFile__inherit__graph.png</file>
+      <file>classXdgDesktopFile__coll__graph.png</file>
+      <file>classXdgDesktopFile-members.html</file>
+      <file>classXdgDesktopFileCache.html</file>
+      <file>classXdgDesktopFileCache-members.html</file>
+      <file>classXdgDesktopFilePrivate.html</file>
+      <file>classXdgDesktopFilePrivate__coll__graph.png</file>
+      <file>classXdgDesktopFilePrivate-members.html</file>
+      <file>classXdgEnv.html</file>
+      <file>classXdgEnv-members.html</file>
+      <file>classXdgIcon.html</file>
+      <file>classXdgIcon-members.html</file>
+      <file>classXdgIconCache.html</file>
+      <file>classXdgIconCache__coll__graph.png</file>
+      <file>classXdgIconCache-members.html</file>
+      <file>classXdgIconThemeFile.html</file>
+      <file>classXdgIconThemeFile-members.html</file>
+      <file>classXdgIconThemeManager.html</file>
+      <file>classXdgIconThemeManager__coll__graph.png</file>
+      <file>classXdgIconThemeManager-members.html</file>
+      <file>classXdgManager.html</file>
+      <file>classXdgManager__coll__graph.png</file>
+      <file>classXdgManager-members.html</file>
+      <file>classXdgMenu.html</file>
+      <file>classXdgMenu__coll__graph.png</file>
+      <file>classXdgMenu-members.html</file>
+      <file>classXdgMenuAppFileInfo.html</file>
+      <file>classXdgMenuAppFileInfo__coll__graph.png</file>
+      <file>classXdgMenuAppFileInfo-members.html</file>
+      <file>classXdgMenuApplinkProcessor.html</file>
+      <file>classXdgMenuApplinkProcessor__coll__graph.png</file>
+      <file>classXdgMenuApplinkProcessor-members.html</file>
+      <file>classXdgMenuLayoutProcessor.html</file>
+      <file>classXdgMenuLayoutProcessor__coll__graph.png</file>
+      <file>classXdgMenuLayoutProcessor-members.html</file>
+      <file>classXdgMenuPrivate.html</file>
+      <file>classXdgMenuPrivate__coll__graph.png</file>
+      <file>classXdgMenuPrivate-members.html</file>
+      <file>classXdgMenuReader.html</file>
+      <file>classXdgMenuReader__coll__graph.png</file>
+      <file>classXdgMenuReader-members.html</file>
+      <file>classXdgMenuRule.html</file>
+      <file>classXdgMenuRule__inherit__graph.png</file>
+      <file>classXdgMenuRule-members.html</file>
+      <file>classXdgMenuRuleAll.html</file>
+      <file>classXdgMenuRuleAll__inherit__graph.png</file>
+      <file>classXdgMenuRuleAll__coll__graph.png</file>
+      <file>classXdgMenuRuleAll-members.html</file>
+      <file>classXdgMenuRuleAnd.html</file>
+      <file>classXdgMenuRuleAnd__inherit__graph.png</file>
+      <file>classXdgMenuRuleAnd__coll__graph.png</file>
+      <file>classXdgMenuRuleAnd-members.html</file>
+      <file>classXdgMenuRuleCategory.html</file>
+      <file>classXdgMenuRuleCategory__inherit__graph.png</file>
+      <file>classXdgMenuRuleCategory__coll__graph.png</file>
+      <file>classXdgMenuRuleCategory-members.html</file>
+      <file>classXdgMenuRuleFileName.html</file>
+      <file>classXdgMenuRuleFileName__inherit__graph.png</file>
+      <file>classXdgMenuRuleFileName__coll__graph.png</file>
+      <file>classXdgMenuRuleFileName-members.html</file>
+      <file>classXdgMenuRuleNot.html</file>
+      <file>classXdgMenuRuleNot__inherit__graph.png</file>
+      <file>classXdgMenuRuleNot__coll__graph.png</file>
+      <file>classXdgMenuRuleNot-members.html</file>
+      <file>classXdgMenuRuleOr.html</file>
+      <file>classXdgMenuRuleOr__inherit__graph.png</file>
+      <file>classXdgMenuRuleOr__coll__graph.png</file>
+      <file>classXdgMenuRuleOr-members.html</file>
+      <file>classXdgMenuRules.html</file>
+      <file>classXdgMenuRules-members.html</file>
+      <file>classXdgMenuWidget.html</file>
+      <file>classXdgMenuWidget__coll__graph.png</file>
+      <file>classXdgMenuWidget-members.html</file>
+      <file>classXdgMenuWidgetPrivate.html</file>
+      <file>classXdgMenuWidgetPrivate__coll__graph.png</file>
+      <file>classXdgMenuWidgetPrivate-members.html</file>
+      <file>classXfitMan.html</file>
+      <file>classXfitMan-members.html</file>
+      <file>inherits.html</file>
+      <file>inherit_graph_0.png</file>
+      <file>inherit_graph_1.png</file>
+      <file>inherit_graph_2.png</file>
+      <file>inherit_graph_3.png</file>
+      <file>inherit_graph_4.png</file>
+      <file>inherit_graph_5.png</file>
+      <file>inherit_graph_6.png</file>
+      <file>inherit_graph_7.png</file>
+      <file>inherit_graph_8.png</file>
+      <file>inherit_graph_9.png</file>
+      <file>inherit_graph_10.png</file>
+      <file>inherit_graph_11.png</file>
+      <file>inherit_graph_12.png</file>
+      <file>inherit_graph_13.png</file>
+      <file>inherit_graph_14.png</file>
+      <file>inherit_graph_15.png</file>
+      <file>inherit_graph_16.png</file>
+      <file>inherit_graph_17.png</file>
+      <file>inherit_graph_18.png</file>
+      <file>inherit_graph_19.png</file>
+      <file>inherit_graph_20.png</file>
+      <file>inherit_graph_21.png</file>
+      <file>inherit_graph_22.png</file>
+      <file>inherit_graph_23.png</file>
+      <file>inherit_graph_24.png</file>
+      <file>inherit_graph_25.png</file>
+      <file>inherit_graph_26.png</file>
+      <file>inherit_graph_27.png</file>
+      <file>inherit_graph_28.png</file>
+      <file>inherit_graph_29.png</file>
+      <file>inherit_graph_30.png</file>
+      <file>inherit_graph_31.png</file>
+      <file>inherit_graph_32.png</file>
+      <file>inherit_graph_33.png</file>
+      <file>inherit_graph_34.png</file>
+      <file>inherit_graph_35.png</file>
+      <file>inherit_graph_36.png</file>
+      <file>inherit_graph_37.png</file>
+      <file>inherit_graph_38.png</file>
+      <file>inherit_graph_39.png</file>
+      <file>inherit_graph_40.png</file>
+      <file>inherit_graph_41.png</file>
+      <file>inherit_graph_42.png</file>
+      <file>inherit_graph_43.png</file>
+      <file>inherit_graph_44.png</file>
+      <file>inherit_graph_45.png</file>
+      <file>inherit_graph_46.png</file>
+      <file>graph_legend.png</file>
+      <file>graph_legend.html</file>
+      <file>files.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>
