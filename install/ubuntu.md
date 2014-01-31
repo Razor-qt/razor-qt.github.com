@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Razor-qt - Download
+title: Razor-qt - How to install Razor-qt in Ubuntu
 menuItem: Downloads
 ---
 

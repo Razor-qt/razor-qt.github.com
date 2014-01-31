@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Razor-qt - Development
 menuItem: Development
 ---
 

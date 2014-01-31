@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Razor-qt - Download
+title: Razor-qt - Live CD & DVD
 menuItem: Downloads
 ---
 
