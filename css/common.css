@@ -1,0 +1,197 @@
+/* CSS Document */
+
+
+html {
+	height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  height: auto !important;
+  height: 100%;
+  min-height: 100%;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  
+	background-color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #4C4C4C;
+}
+
+#content {
+  padding-bottom: 50px;
+}
+
+
+body * {
+	font-size: 10pt;
+}
+
+a {
+  color: #1185DA
+}
+
+a:visited {
+	color: #7065AA;
+}
+
+
+.header {
+	background-color: #000000;
+	color: #EFEFEF;
+	min-width: 1200px;
+  position: relative;
+}
+
+
+.header a{
+	text-decoration: none;
+	color: #EFEFEF;
+}
+
+.header a img {
+	border: none;
+}
+
+/* Menu ************************************************/
+
+.header .menu {
+	position: absolute;
+	bottom: 6px;
+	padding: 0 140px 0 35px;
+ 	background-color: #404040;
+}
+
+.header .menu a{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	text-decoration: none;
+	padding: 12px 20px 14px 20px;
+	display: inline-block;
+	color: #FFFFFF;
+}
+
+.header .menu a.active {
+	background-image: url(/imgs/menu-a.png);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+}
+
+.menuPopup {
+  position: absolute;
+	top: 120%;
+	left: 0;
+	padding: 4px 4px 8px 4px;
+  white-space: nowrap;
+ 	background-color: #404040;
+ 	border: 1px solid #000000;
+}
+
+
+.header .menuPopup a{
+	text-decoration: none;
+	padding: 6px 60px 6px 20px;
+	color: #FFFFFF;
+	display: block;
+	text-decoration: none;
+	margin: 0;
+}
+
+.header .menuPopup a:hover{
+	color: #FFFFFF;
+ 	background-color: #707070;
+}
+
+
+/* Page ************************************************/
+
+.page {
+	margin: 15px 55px 100px 55px;
+  color: #4C4C4C;
+	font-size: 10pt;
+  vertical-align: top;
+}
+
+.page h1 {
+  color: #4C4C4C;
+  font-size: 25pt;
+  margin-bottom: 40pt;
+}
+
+.page h2 {
+	color: #4C4C4C;
+	font-size: 13pt;
+	border-bottom: solid 1px #989898;
+	margin-top: 40px;
+}
+
+.page h3 {
+	color: #4C4C4C;
+	font-size: 10pt;
+}
+
+
+code {
+  display: block;
+  white-space: pre;
+  margin: 10pt;
+  background-color: #EEEEEE;
+  padding: 10pt;
+  color: #3C3C3C;
+}
+
+
+
+.installInfo {
+	position: relative;
+	padding-left:55px;
+  margin-top: 10pt;
+  min-height: 50px;
+  height:auto !important;
+  height: 50px;
+}
+
+
+.installInfo  img {
+	position: absolute;
+	margin-left: -55px;
+  width:48px;
+	height:48px;
+}
+
+
+.press {
+  position: relative;
+  padding-left:33px;
+  margin-top: 10pt;
+  min-height: 50px;
+  height:auto !important;
+  height: 50px;
+}
+
+
+.press  img {
+  position: absolute;
+  margin-left: -33px;
+  width:22px;
+  height:22px;
+}
+
+/* Footer **********************************************/
+.footer {
+ 	position: absolute;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+	border-top: 1px solid #A0A0A0;
+  background-color: #D0D0D0;
+}
+
+.footerText {
+  color: #707070;
+  padding: 16px 16px 20px 10px;
+  font-size: 9pt;
+}

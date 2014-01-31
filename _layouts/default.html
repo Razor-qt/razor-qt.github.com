@@ -1,0 +1,17 @@
+{% include html_head.html %}
+<body>
+    <div id="content">
+        <div class=header>
+            <div class=title><a href="/"><h1>Razor-qt</h1></a></div>
+            <div class=logo><a href="/" style="text-decoration: none;"><img id=logo src="/imgs/logo-s.png"></a></div>
+            {% include menu.html %}    
+        </div>
+    </div>
+
+    
+    <div id="content">    
+        <div class=page>{{ content }}</div>
+    </div>
+{% include footer.html %}
+</body>
+</html>

@@ -1,0 +1,17 @@
+<div class=menu>
+{% for item in site.menu_items %}
+    {% if item.submenu %}
+        <span style='position: relative;'><a 
+        {% if item.title == page.menuItem %} class="active"{% endif %} href="{{ item.link }}" onMouseOver="showPopup('{{ item.id }}')" onMouseOut="hidePopup('{{ item.id }}');">{{ item.title }}</a>
+        <div id="{{ item.id }}" class='menuPopup' style='position: absolute; display: none;' onMouseOver="showPopup('{{ item.id }}');" onMouseOut="hidePopup('{{ item.id }}');">
+        {% for subitem in item.submenu %}<a href="{{ subitem.link }}">{{ subitem.title }}</a>{% endfor %}
+        </div>
+        </span>
+    {% else %}
+        <a {% if item.title == page.menuItem %} class="active"{% endif %} href="{{ item.link }}">{{ item.title }}</a>
+    {% endif %}
+{% endfor %}    
+</div>
+
+
+

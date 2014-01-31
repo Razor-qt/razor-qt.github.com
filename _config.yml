@@ -1,0 +1,52 @@
+name: Razor-qt
+markdown: redcarpet
+pygments: true
+baseurl:
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
+program:
+  release:
+    version: 0.5.2
+    link: /downloads/razorqt-0.5.2.tar.bz2
+
+menu_items:
+  - title:      About
+    link:       /index.html
+
+  - title:      Screenshots
+    link:       /screenshots/
+
+  - title:      Downloads
+    link:       /install/
+
+  - title:      Support
+    link:       /support/
+    id:         pop1
+    submenu:
+        - title:    Issues
+          link:     https://github.com/Razor-qt/razor-qt/issues?sort=created&direction=desc&state=open
+
+        - title:    Google group (en)
+          link:     http://groups.google.com/group/razor-qt
+
+        - title:    Google group (ru)
+          link:     http://groups.google.com/group/razor-qt-ru
+
+  - title:      Development
+    link:       /develop
+    id:         pop2
+    submenu:
+        - title:    Wiki
+          link:     https://github.com/Razor-qt/razor-qt/wiki
+
+        - title:    API Docs
+          link:     /develop/docs/classes.html
+
+        - title:    Git repository
+          link:     https://github.com/Razor-qt/razor-qt/commits/master
+

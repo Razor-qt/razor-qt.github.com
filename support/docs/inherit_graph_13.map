@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classRazorPanelPlugin.html" title="Base abstract class for Razor panel widgets/plugins. All plugins *must* be inherited from this one..." alt="" coords="7,85,132,115"/>
+<area shape="rect" id="node3" href="$classDesktopSwitch.html" title="Desktop switcher. A very simple one..." alt="" coords="193,5,303,35"/>
+<area shape="rect" id="node5" href="$classRazorMount.html" title="RazorMount" alt="" coords="201,59,295,88"/>
+<area shape="rect" id="node7" href="$classRazorQuickLaunch.html" title="Loader for &quot;quick launcher&quot; icons in the panel." alt="" coords="181,112,315,141"/>
+<area shape="rect" id="node9" href="$classRazorTray.html" title="This makes our trayplugin." alt="" coords="207,165,289,195"/>
+</map>

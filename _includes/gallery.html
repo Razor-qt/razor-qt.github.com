@@ -1,0 +1,12 @@
+{% for item in include.images %}
+    <div class=gallery_item><a 
+        rel="{% if include.group != none %}{{ include.group }}{% else %}default{% endif %}" 
+        class="{% if include.group != none %}{{ include.group }}{% else %}default{% endif %}" 
+        href='{{ item.full }}' title="{{ item.description }}"><img 
+        src='{{ item.preview }}' 
+        alt="{{ item.description }}" 
+        width=100%></a><br>{{ item.description }}</div>
+{% endfor %}
+<script>
+    jQuery('a.{% if include.group != none %}{{ include.group }}{% else %}default{% endif %}').colorbox({ opacity:0.6 , rel:'"{% if include.group != none %}{{ include.group }}{% else %}default{% endif %}"' });
+</script>

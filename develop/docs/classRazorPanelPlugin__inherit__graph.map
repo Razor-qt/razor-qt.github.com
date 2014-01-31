@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classDesktopSwitch.html" title="Desktop switcher. A very simple one..." alt="" coords="5,83,115,112"/>
+<area shape="rect" id="node5" href="$classRazorMount.html" title="RazorMount" alt="" coords="139,83,232,112"/>
+<area shape="rect" id="node7" href="$classRazorQuickLaunch.html" title="Loader for &quot;quick launcher&quot; icons in the panel." alt="" coords="256,83,389,112"/>
+<area shape="rect" id="node9" href="$classRazorTray.html" title="This makes our trayplugin." alt="" coords="413,83,496,112"/>
+</map>
