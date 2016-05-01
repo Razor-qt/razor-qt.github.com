@@ -1,52 +1,20 @@
 name: Razor-qt
-markdown: redcarpet
-pygments: true
-baseurl:
+description: The Razor Desktop Environment
+logo: images/logo.png
+
+url: http://razor-qt.org
+
+markdown: kramdown
+
 redcarpet:
-  extensions:
-    - hard_wrap
-    - no_intra_emphasis
-    - autolink
-    - strikethrough
-    - fenced_code_blocks
-program:
-  release:
-    version: 0.5.2
-    link: /downloads/razorqt-0.5.2.tar.bz2
+  # Use Github Flavored Markdown (including triple backticks)
+  input: GFM
 
-menu_items:
-  - title:      About
-    link:       /index.html
+sass:
+  style: :compressed
 
-  - title:      Screenshots
-    link:       /screenshots/
+gems:
+  - jekyll-sitemap
 
-  - title:      Downloads
-    link:       /install/
-
-  - title:      Support
-    link:       /support/
-    id:         pop1
-    submenu:
-        - title:    Issues
-          link:     https://github.com/Razor-qt/razor-qt/issues?sort=created&direction=desc&state=open
-
-        - title:    Google group (en)
-          link:     http://groups.google.com/group/razor-qt
-
-        - title:    Google group (ru)
-          link:     http://groups.google.com/group/razor-qt-ru
-
-  - title:      Development
-    link:       /develop
-    id:         pop2
-    submenu:
-        - title:    Wiki
-          link:     https://github.com/Razor-qt/razor-qt/wiki
-
-        - title:    API Docs
-          link:     /develop/docs/classes.html
-
-        - title:    Git repository
-          link:     https://github.com/Razor-qt/razor-qt/commits/master
-
+exclude:
+  - LICENSE
